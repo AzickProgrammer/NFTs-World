@@ -1,0 +1,1134 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Как защищать данные и зарабатывать с помощью NFT: 7 возможностей | Bubble</title>
+<meta name="description" content="Рассказываем о том, как получать выгоду с помощью NFT: токены в искусстве, бизнесе, онлайн-играх и NFT-аватары (PFP)">
+<link rel="canonical" href="https://bbbl.dev/articles/nft">
+<link rel="image_src" href="https://bbbl.dev/storage/images/71/58/79/17/derived/0f24a3bdff6652606c27bd125e6e4997.jpg">
+<meta property="og:title" content="Как извлечь выгоду из NFT: 7 способов">
+<meta property="og:description" content="Пользователь Twitter @MishadaVinci сделала тред о том, как извлечь выгоду из NFT. Твит собрал более 2 800 лайков и 730 репостов. Bubble кратко пересказывает его содержание.">
+<meta property="og:site_name" content="Bubble">
+<meta property="og:image" content="https://bbbl.dev/storage/images/71/58/79/17/derived/0f24a3bdff6652606c27bd125e6e4997.jpg">
+<meta property="og:type" content="article">
+<meta name="twitter:site" content="@devby">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="recaptcha-v3-site-key" content="6Lez8XgeAAAAADbuonUHfJz7UvZjPAgbjV86mur4">
+<meta name="onthe-io-config" content="{&quot;page_url&quot;:&quot;https://bbbl.dev/articles/nft&quot;,&quot;page_url_canonical&quot;:&quot;https://bbbl.dev/articles/nft&quot;,&quot;page_title&quot;:&quot;Как извлечь выгоду из NFT: 7 способов&quot;,&quot;page_type&quot;:&quot;article&quot;,&quot;page_language&quot;:&quot;ru&quot;,&quot;article_authors&quot;:[&quot;ebs5ya&quot;],&quot;article_categories&quot;:[&quot;Финансы&quot;],&quot;article_type&quot;:&quot;news&quot;,&quot;article_word_count&quot;:409,&quot;article_publication_date&quot;:&quot;2022-05-02T07:53:00.000Z&quot;}">
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "/articles/nft"
+    },
+    "url": "/articles/nft",
+    "datePublished": "2022-05-02",
+    "dateModified": "2022-04-29",
+    "headline": "Как извлечь выгоду из NFT: 7 способов",
+    "description": "Пользователь Twitter @MishadaVinci сделала тред о том, как извлечь выгоду из NFT. Твит собрал более 2 800 лайков и 730 репостов. Bubble кратко пересказывает его содержание.",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://bbbl.dev/storage/images/64/23/04/10/derived/1346d667de3e6e7b73a97c3b12e5dc81.jpg"
+    },
+    "author": {
+      "@type": "Person",
+      "name": "ebs5ya"
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "dev.by",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://assets.bbbl.dev/packs/media/images/full-logo-d69412ae27e9e65de0c2e6ea83fac142.svg",
+        "width": 83,
+        "height": 32
+      }
+    }
+  }
+</script>
+<script type="6f0830732c2e99fb82053d93-text/javascript">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WD69G94');
+  </script>
+<script src="https://cdn.admixer.net/scripts3/loader2.js" async data-inv="//inv-nets.admixer.net" data-r="single" data-sender="admixer" data-bundle="desktop" type="6f0830732c2e99fb82053d93-text/javascript"></script>
+<script type="6f0830732c2e99fb82053d93-text/javascript">
+    (window.globalAmlAds = window.globalAmlAds || []).push(function() {
+      const banners = [
+        {
+          z: '496e62f8-6e9c-4ee9-8f32-3cbdd9298c3f',
+          ph: 'admixer_496e62f86e9c4ee98f323cbdd9298c3f_zone_100431_sect_44647_site_38180',
+          i: 'inv-nets',
+          s: '198aae88-bdfc-4985-ae90-0ac837bc41bd',
+          sender: 'admixer'
+        },
+        {
+          z: 'ac4d72f4-45d7-4bbc-8542-33331eaaf133',
+          ph: 'admixer_ac4d72f445d74bbc854233331eaaf133_zone_100432_sect_44647_site_38180',
+          i: 'inv-nets',
+          s: '198aae88-bdfc-4985-ae90-0ac837bc41bd',
+          sender: 'admixer'
+        },
+        {
+          z: '855b798b-02dd-482a-a8b1-60927a5d7496',
+          ph: 'admixer_855b798b02dd482aa8b160927a5d7496_zone_100433_sect_44647_site_38180',
+          i: 'inv-nets',
+          s: '198aae88-bdfc-4985-ae90-0ac837bc41bd',
+          sender: 'admixer'
+        },
+        {
+          z: '3e219ddf-d283-4a50-8e3b-681edae216e5',
+          ph: 'admixer_3e219ddfd2834a508e3b681edae216e5_zone_101240_sect_44647_site_38180',
+          i: 'inv-nets',
+          s: '198aae88-bdfc-4985-ae90-0ac837bc41bd',
+          sender: 'admixer'
+        },
+        {
+          z: '9bccd4be-524b-48b4-80a3-1515019c1a23',
+          ph: 'admixer_9bccd4be524b48b480a31515019c1a23_zone_101241_sect_44647_site_38180',
+          i: 'inv-nets',
+          s: '198aae88-bdfc-4985-ae90-0ac837bc41bd',
+          sender: 'admixer'
+        },
+        {
+          z: '471a05f5-63cf-478e-b73f-b40ccbfa8361',
+          ph: 'admixer_471a05f563cf478eb73fb40ccbfa8361_zone_101242_sect_44647_site_38180',
+          i: 'inv-nets',
+          s: '198aae88-bdfc-4985-ae90-0ac837bc41bd',
+          sender: 'admixer'
+        },
+        {
+          z: 'f69cd66b-4ea9-4d22-b837-7469b965dc34',
+          ph: 'admixer_f69cd66b4ea94d22b8377469b965dc34_zone_101993_sect_44647_site_38180',
+          i: 'inv-nets',
+          s:'198aae88-bdfc-4985-ae90-0ac837bc41bd',
+          sender: 'admixer'
+        },
+        {
+          z: '8d51ecba-0e2c-4647-8e8a-a4d76424af88',
+          ph: 'admixer_8d51ecba0e2c46478e8aa4d76424af88_zone_113926_sect_44647_site_38180',
+          i: 'inv-nets',
+          s:'198aae88-bdfc-4985-ae90-0ac837bc41bd',
+          sender: 'admixer'
+         },
+         {
+          z: '8c1180e1-b5d3-4836-9ab0-1c83fd7cbbc6',
+          ph: 'admixer_8c1180e1b5d348369ab01c83fd7cbbc6_zone_113927_sect_44647_site_38180',
+          i: 'inv-nets',
+          s:'198aae88-bdfc-4985-ae90-0ac837bc41bd',
+          sender: 'admixer'
+        },
+        {
+          z: '6cbcce6f-d2ad-4e7c-957d-7f059305e71b',
+          ph: 'admixer_6cbcce6fd2ad4e7c957d7f059305e71b_zone_113928_sect_44647_site_38180',
+          i: 'inv-nets',
+          s:'198aae88-bdfc-4985-ae90-0ac837bc41bd',
+          sender: 'admixer'
+        },
+        {
+          z: '34d94824-8e22-43f0-a6b5-b8afb0955edc',
+          ph: 'admixer_34d948248e2243f0a6b5b8afb0955edc_zone_113929_sect_44647_site_38180',
+          i: 'inv-nets',
+          s:'198aae88-bdfc-4985-ae90-0ac837bc41bd',
+          sender: 'admixer'
+        },
+        {
+          z: 'c7e21cea-e821-4c11-b862-cb2d019a2d7b',
+          ph: 'admixer_c7e21ceae8214c11b862cb2d019a2d7b_zone_113930_sect_44647_site_38180',
+          i: 'inv-nets',
+          s:'198aae88-bdfc-4985-ae90-0ac837bc41bd',
+          sender: 'admixer'
+        },
+        {
+          z: 'f8cbdbcd-6161-4730-a297-7529ebbe36f5',
+          ph: 'admixer_f8cbdbcd61614730a2977529ebbe36f5_zone_113931_sect_44647_site_38180',
+          i: 'inv-nets',
+          s:'198aae88-bdfc-4985-ae90-0ac837bc41bd',
+          sender: 'admixer'
+        }
+      ];
+
+      banners.forEach(banner => {
+        const id = banner.ph
+        const containerElement = document.querySelector('#' + id)
+
+        if (containerElement) globalAml.defineSlot(banner)
+      })
+
+      globalAml.singleRequest('admixer');
+    })
+  </script>
+<script src="https://cdn.onthe.io/io.js/6jrBxplfJ9A3" async type="6f0830732c2e99fb82053d93-text/javascript"></script>
+<script type="6f0830732c2e99fb82053d93-text/javascript">
+    function ioConfigFields () {
+      try {
+        return JSON.parse(document.head.querySelector('meta[name=onthe-io-config]').content)
+      } catch(e) {
+        return {}
+      }
+    }
+    window._io_config = window._io_config || {};
+    window._io_config["0.2.0"] = window._io_config["0.2.0"] || [];
+    window._io_config["0.2.0"].push(ioConfigFields());
+  </script>
+<link rel="dns-prefetch" href="https://www.googletagmanager.com"><link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.google-analytics.com"><link rel="preconnect" href="https://www.google-analytics.com">
+<link rel="dns-prefetch" href="https://www.facebook.com"><link rel="preconnect" href="https://www.facebook.com">
+<link rel="dns-prefetch" href="https://connect.facebook.net"><link rel="preconnect" href="https://connect.facebook.net">
+<link rel="dns-prefetch" href="https://cdn.onthe.io"><link rel="preconnect" href="https://cdn.onthe.io">
+<script src="https://cdn.gravitec.net/storage/f3d8f2af094f059d49bfb2eb4abf3613/client.js" async type="6f0830732c2e99fb82053d93-text/javascript"></script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1094641317759535" crossorigin="anonymous" type="6f0830732c2e99fb82053d93-text/javascript"></script>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="jMCUdT4Q22hMd2i0UhaHzhLx3ltIxCB86vbBhiglDrtwLTQXphGS9RK8iuqDeF1dYD268sx-BUkPoGzvdgWfKQ" />
+<link rel="icon" href="https://assets.bbbl.dev/packs/media/images/favicons/favicon-c12ed902c6127f5496d2a1e3ae12d718.ico">
+<link rel="icon" type="image/png" sizes="32x32" href="https://assets.bbbl.dev/packs/media/images/favicons/favicon-32x32-27f4ea5ff3a636f29bc631f44c2acc53.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://assets.bbbl.dev/packs/media/images/favicons/favicon-16x16-286303a6579a842106aea4494e988dec.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://assets.bbbl.dev/packs/media/images/favicons/apple-touch-icon-fb24a822b5451295930e0aedebbb8096.png">
+<link rel="icon" type="image/svg+xml" sizes="any" href="https://assets.bbbl.dev/packs/media/images/favicons/favicon-0ed349b5a70959cc74a98935d030cf03.svg">
+<link rel="stylesheet" media="all" href="https://assets.bbbl.dev/packs/css/application-deb47bfa.css" data-turbo-track="reload" />
+<script src="https://assets.bbbl.dev/packs/js/application-a7e7d78a4f3ce090e2ee.js" data-turbo-track="reload" defer="defer" type="6f0830732c2e99fb82053d93-text/javascript"></script>
+</head>
+<body class="transition-disabled" data-controller="transition rotate-block">
+<div class="container min-vh-100">
+<header class="header" data-controller="header">
+<a href="/" class="header__brand " title="Главная страница" data-turbo="false" aria-current="false" data-header-target="logo">
+<svg width="100%" viewBox="0 0 344 42">
+<use href="#logoHeader" />
+<linearGradient id="logoHeaderGradient" x1="714" y1="0" x2="714" y2="162" gradientUnits="userSpaceOnUse">
+<stop class="header__brand-gradient header__brand-gradient_1" stop-color="currentColor" stop-opacity="0" />
+<stop class="header__brand-gradient header__brand-gradient_2" offset=".25" stop-color="currentColor" stop-opacity=".65" />
+<stop class="header__brand-gradient header__brand-gradient_3" offset=".35" stop-color="currentColor" stop-opacity=".85" />
+<stop offset=".45" stop-color="currentColor" />
+<stop offset=".55" stop-color="currentColor" />
+<stop class="header__brand-gradient header__brand-gradient_3" offset=".65" stop-color="currentColor" stop-opacity=".85" />
+<stop class="header__brand-gradient header__brand-gradient_2" offset=".75" stop-color="currentColor" stop-opacity=".65" />
+<stop class="header__brand-gradient header__brand-gradient_1" offset="1" stop-color="currentColor" stop-opacity="0" />
+</linearGradient>
+</svg>
+</a>
+<div class="navbar">
+<a href="#asideMenu" role="button" class="navbar__toggle navbar__toggle_desktop" title="Открыть меню сервисов" data-bs-toggle="offcanvas" id="asideMenuToggle">
+<svg width="24" height="24"><use href="#services" /></svg>
+</a>
+<aside class="aside-menu offcanvas offcanvas-start" data-controller="offcanvas" tabindex="-1" id="asideMenu" aria-labelledby="asideMenuToggle">
+<div class="aside-menu__header">
+<button type="button" class="aside-menu__close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+<svg class="aside-menu__brand text-primary" width="83" height="32"><use href="#logoDevby" /></svg>
+</div>
+<div class="aside-menu__body">
+<nav class="aside-menu__nav" aria-label="Навигация по сервисам dev.by">
+<a class="aside-menu__link" target="_blank" rel="noopener" href="https://dev.ua">Новости в Украине</a>
+<a class="aside-menu__link" target="_blank" rel="noopener" href="https://devby.io">Новости в Беларуси</a>
+<a class="aside-menu__link" target="_blank" rel="noopener" href="https://courses.thedev.io">Курсы</a>
+</nav>
+</div>
+<div class="aside-menu__footer">
+<nav class="aside-menu__nav">
+<a href="/pages/ads" class="aside-menu__link aside-menu__link_sm aside-menu__link_muted">Размещение рекламы на Bubble</a>
+<a href="/pages/contacts" class="aside-menu__link aside-menu__link_sm aside-menu__link_muted">Контакты</a>
+<a href="/pages/user-agreement" class="aside-menu__link aside-menu__link_sm aside-menu__link_muted">Пользовательское соглашение</a>
+<a href="/pages/about" class="aside-menu__link aside-menu__link_sm aside-menu__link_muted">О проекте</a>
+<a class="aside-menu__link aside-menu__link_sm aside-menu__link_muted" target="_blank" rel="noopener" href="https://dev.media/work-at-devmedia-1">Вакансии у нас</a>
+</nav>
+</div>
+</aside>
+<nav class="navbar__nav" aria-label="Навигация по сайту">
+<a class="navbar__link" aria-current="false" href="/articles?type=long">Статьи</a>
+<a class="navbar__link" aria-current="false" href="https://bbbl.dev/books">Гиды</a>
+<a class="navbar__link" target="_blank" rel="noopener" href="https://courses.thedev.io">Курсы</a>
+<span class="navbar__separator"></span>
+<a class="navbar__link" aria-current="false" href="/categories/spetsproekt">Спецпроект</a>
+<a class="navbar__link" aria-current="false" href="/categories/menedzhment">Менеджмент</a>
+<a class="navbar__link" aria-current="false" href="/categories/relocate">Релокейт</a>
+<div class="dropdown">
+<a href="#dropdownMenu" class="navbar__link" data-bs-toggle="dropdown" aria-expanded="false" id="dropdownMenuToggle">
+Все темы
+<svg class="navbar__icon navbar__icon_more" width="24" height="24"><use href="#more" /></svg>
+<svg class="navbar__icon navbar__icon_close" width="24" height="24"><use href="#close" /></svg>
+</a>
+<ul class="dropdown-menu mt-2" aria-labelledby="dropdownMenuToggle" id="dropdownMenu">
+<li>
+<a class="dropdown-item text-truncate " aria-current="false" href="/categories/spetsproekt">Спецпроект</a>
+</li>
+<li>
+<a class="dropdown-item text-truncate " aria-current="false" href="/categories/menedzhment">Менеджмент</a>
+</li>
+<li>
+<a class="dropdown-item text-truncate " aria-current="false" href="/categories/relocate">Релокейт</a>
+</li>
+<li>
+<a class="dropdown-item text-truncate " aria-current="false" href="/categories/digital-wellbeing">Цифровой быт</a>
+</li>
+<li>
+<a class="dropdown-item text-truncate " aria-current="false" href="/categories/svoe-delo">Свое дело</a>
+</li>
+<li>
+<a class="dropdown-item text-truncate " aria-current="false" href="/categories/voiti-v-it">Войти в IT</a>
+</li>
+<li>
+<a class="dropdown-item text-truncate " aria-current="false" href="/categories/self-help">Психология</a>
+</li>
+<li>
+<a class="dropdown-item text-truncate " aria-current="false" href="/categories/rasti-v-it-kod">Расти в IT</a>
+</li>
+<li>
+<a class="dropdown-item text-truncate " aria-current="false" href="/categories/karera">Карьера</a>
+</li>
+<li>
+<a class="dropdown-item text-truncate " aria-current="false" href="/categories/inostrannye-yazyki">Иностранные языки</a>
+</li>
+<li>
+<a class="dropdown-item text-truncate " aria-current="false" href="/categories/finansy">Финансы</a>
+</li>
+<li>
+<a class="dropdown-item text-truncate " aria-current="false" href="/categories/hobbi">Хобби</a>
+</li>
+<li>
+<a class="dropdown-item text-truncate " aria-current="false" href="/categories/dizain">Дизайн</a>
+</li>
+<li>
+<a class="dropdown-item text-truncate " aria-current="false" href="/categories/kak-uchitsya">Как учиться</a>
+</li>
+<li>
+<a class="dropdown-item text-truncate " aria-current="false" href="/categories/gadzhety">Гаджеты</a>
+</li>
+<li>
+<a class="dropdown-item text-truncate " aria-current="false" href="/categories/news">News</a>
+</li>
+<li>
+<a class="dropdown-item text-truncate " aria-current="false" href="/categories/obyasnyalki">Объяснялки</a>
+</li>
+</ul>
+</div>
+</nav>
+<a href="#mobileMenu" role="button" class="navbar__toggle navbar__toggle_mobile" title="Открыть мобильное меню" data-bs-toggle="offcanvas" id="mobileMenuToggle">
+<svg width="24" height="24"><use href="#menu" /></svg>
+</a>
+<div class="mobile-menu offcanvas offcanvas-end" data-controller="offcanvas" data-bs-backdrop="false" tabindex="-1" id="mobileMenu" aria-labelledby="mobileMenuToggle">
+<div class="mobile-menu__container">
+<div class="mobile-menu__header">
+<a href="/" class="mobile-menu__brand" title="Главная страница" aria-current="true" data-turbo="false">
+<svg width="100%" viewBox="0 0 344 42">
+<use href="#logoHeader" />
+</svg>
+</a>
+<button type="button" class="mobile-menu__close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+</div>
+<div class="mobile-menu__scroll">
+<div class="mobile-menu__body">
+<nav class="mobile-menu__nav" aria-label="Навигация по Bubble">
+<a class="mobile-menu__link " aria-current="false" href="/articles?type=long">Статьи</a>
+<a class="mobile-menu__link " aria-current="false" href="https://bbbl.dev/books">Гиды</a>
+<a class="mobile-menu__link " aria-current="false" target="_blank" rel="noopener" href="https://courses.thedev.io">Курсы</a>
+<span class="mobile-menu__separator"></span>
+<a class="mobile-menu__link " aria-current="false" href="/categories/spetsproekt">Спецпроект</a>
+<a class="mobile-menu__link " aria-current="false" href="/categories/menedzhment">Менеджмент</a>
+<a class="mobile-menu__link " aria-current="false" href="/categories/relocate">Релокейт</a>
+<a class="mobile-menu__link " aria-current="false" href="/categories/digital-wellbeing">Цифровой быт</a>
+<a class="mobile-menu__link " aria-current="false" href="/categories/svoe-delo">Свое дело</a>
+<a class="mobile-menu__link " aria-current="false" href="/categories/voiti-v-it">Войти в IT</a>
+<a class="mobile-menu__link " aria-current="false" href="/categories/self-help">Психология</a>
+<a class="mobile-menu__link " aria-current="false" href="/categories/rasti-v-it-kod">Расти в IT</a>
+<a class="mobile-menu__link " aria-current="false" href="/categories/karera">Карьера</a>
+<a class="mobile-menu__link " aria-current="false" href="/categories/inostrannye-yazyki">Иностранные языки</a>
+<a class="mobile-menu__link " aria-current="false" href="/categories/finansy">Финансы</a>
+<a class="mobile-menu__link " aria-current="false" href="/categories/hobbi">Хобби</a>
+<a class="mobile-menu__link " aria-current="false" href="/categories/dizain">Дизайн</a>
+<a class="mobile-menu__link " aria-current="false" href="/categories/kak-uchitsya">Как учиться</a>
+<a class="mobile-menu__link " aria-current="false" href="/categories/gadzhety">Гаджеты</a>
+<a class="mobile-menu__link " aria-current="false" href="/categories/news">News</a>
+<a class="mobile-menu__link " aria-current="false" href="/categories/obyasnyalki">Объяснялки</a>
+</nav>
+</div>
+<div class="mobile-menu__footer">
+<nav class="mobile-menu__nav" aria-label="Глобальная навигация">
+<span class="mobile-menu__link">
+<svg width="42" height="16"><use href="#logoDevby" /></svg>
+</span>
+<a class="mobile-menu__link mobile-menu__link_sm" aria-current="false" target="_blank" rel="noopener" href="https://dev.ua">Новости в Украине</a>
+<a class="mobile-menu__link mobile-menu__link_sm" aria-current="false" target="_blank" rel="noopener" href="https://devby.io">Новости в Беларуси</a>
+<a class="mobile-menu__link mobile-menu__link_sm" aria-current="false" target="_blank" rel="noopener" href="https://courses.thedev.io">Курсы</a>
+<span class="mobile-menu__separator"></span>
+<a href="/pages/ads" class="mobile-menu__link mobile-menu__link_sm mobile-menu__link_muted">Размещение рекламы на Bubble</a>
+<a href="/pages/contacts" class="mobile-menu__link mobile-menu__link_sm mobile-menu__link_muted">Контакты</a>
+<a href="/pages/user-agreement" class="mobile-menu__link mobile-menu__link_sm mobile-menu__link_muted">Пользовательское соглашение</a>
+<a href="/pages/about" class="mobile-menu__link mobile-menu__link_sm mobile-menu__link_muted">О проекте</a>
+<a class="mobile-menu__link mobile-menu__link_sm mobile-menu__link_muted" aria-current="false" target="_blank" rel="noopener" href="https://dev.media/work-at-devmedia-1">Вакансии у нас</a>
+</nav>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="incut-block d-block d-lg-none my-4">
+<div class="incut-block__body p-0">
+
+<div id="admixer_34d948248e2243f0a6b5b8afb0955edc_zone_113929_sect_44647_site_38180" data-sender="admixer">
+</div>
+<script type="6f0830732c2e99fb82053d93-text/javascript">
+        (window.globalAmlAds = window.globalAmlAds || []).push(function() {
+    globalAml.display('admixer_34d948248e2243f0a6b5b8afb0955edc_zone_113929_sect_44647_site_38180');
+    });
+    </script>
+
+</div>
+</div>
+</header>
+<main class="main">
+<section class="section">
+<div class="section__body">
+<article class="article" data-article-author-token="ebs5ya" data-io-article-url="https://bbbl.dev/articles/nft" data-controller="article-global-incut">
+<div class="article__header">
+<div class="article__container article__container_fluid">
+<h1 class="article__title">
+Как извлечь выгоду из NFT: 7 способов
+</h1>
+<div class="article__tag-group badge-group">
+<a class="badge" href="/categories/finansy">Финансы</a>
+</div>
+</div>
+<div class="article__cover-wrapper ">
+<img src="https://bbbl.dev/storage/images/64/23/04/10/derived/450c45a02e6823c3a61576cb1f56d440.jpg" srcset="
+              https://bbbl.dev/storage/images/64/23/04/10/derived/450c45a02e6823c3a61576cb1f56d440.jpg 1x,
+              https://bbbl.dev/storage/images/64/23/04/10/derived/1346d667de3e6e7b73a97c3b12e5dc81.jpg 2x,
+            " decoding="async" class="article__cover">
+</div>
+</div>
+<div class="share article__share article__share_top">
+<div class="share__body">
+<a href="https://telegram.me/share/url?url=https://bbbl.dev/articles/nft&text=Как извлечь выгоду из NFT: 7 способов" class="share__link" title="Telegram" target="_blank" rel="noopener">
+<svg class="share__icon" width="32" height="32"><use href="#telegram" /></svg>
+</a>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://bbbl.dev/articles/nft" class="share__link" title="Facebook" target="_blank" rel="noopener">
+<svg class="share__icon" width="32" height="32"><use href="#facebook" /></svg>
+</a>
+<a href="https://twitter.com/intent/tweet?url=https://bbbl.dev/articles/nft&text=Как извлечь выгоду из NFT: 7 способов" class="share__link" title="Twitter" target="_blank" rel="noopener">
+<svg class="share__icon" width="32" height="32"><use href="#twitter" /></svg>
+</a>
+<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://bbbl.dev/articles/nft" class="share__link" title="LinkedIn" target="_blank" rel="noopener">
+<svg class="share__icon" width="32" height="32"><use href="#linkedIn" /></svg>
+</a>
+</div>
+</div>
+<div class="article__body">
+<div class="article__container article-content" data-article-global-incut-target="content">
+<div class="article-aside article-aside_first">
+<div class="article-aside__inner article-author">
+<div class="article-author__avatar">
+<img src="https://assets.bbbl.dev/packs/media/images/anonymous-avatar-d28b3747b7675540f5255e887ffa0e5e.png" alt="Bubble" decoding="async" loading="lazy">
+</div>
+<div class="article-author__info">
+<div class="article-author__name">Bubble</div>
+<time class="article-author__date" datetime="2 мая 2022, 07:53">2 мая 2022, 07:53</time>
+</div>
+</div>
+</div>
+<figure>
+<div class="article__lead ">Пользователь Twitter @MishadaVinci <a href="https://twitter.com/MishadaVinci/status/1513139519079411723" target="_blank" rel="noopener">сделала</a> тред о&nbsp;том, как извлечь выгоду из&nbsp;NFT. Твит собрал более 2 800 лайков и&nbsp;730 репостов. Bubble кратко пересказывает его содержание.</div>
+</figure>
+<h3>Возможность № 1. Достойная оплата труда</h3>
+<p>NFT позволили создателям цифрового контента контролировать доходы. Если вы&nbsp;художник, музыкант или креатор, перестаньте работать за&nbsp;гроши. Токенизируйте картины/музыку/контент и&nbsp;получайте достойные гонорары.</p>
+<p><strong>Как это сделать</strong></p>
+<p>Как стать диджитал-художником (и&nbsp;вообще заниматься крипто-артом), рассказывает подкаст <a href="https://podcasts.apple.com/us/podcast/the-art-angle/id1484445852" target="_blank" rel="noopener">The Art Angle</a>.&nbsp;</p>
+<h3>Возможность № 2. Развитие бизнеса</h3>
+<figure class="article-aside ">
+<div class="article-aside__inner" data-template-id="relatedArticleAside">
+<div class="related-article related-article_aside">
+<div class="related-article__body">
+<div class="related-article__subtitle">По&nbsp;теме</div>
+<div class="related-article__title"><a class="related-article__link" href="https://bbbl.dev/articles/gid-po-vidam-zarabotka-v-digital" target="_blank" rel="noopener">Гид по&nbsp;дополнительному заработку в&nbsp;digital: NFT, дизайн, продажа фото на&nbsp;стоках и&nbsp;не&nbsp;только</a></div>
+</div>
+<div class="related-article__cover-wrapper"><img class="related-article__cover" src="https://bbbl.dev/storage/images/30/75/03/25/derived/b8d10a12ff03bb6da5522abf41f79ce2.jpg" alt="Гид по дополнительному заработку в digital: NFT дизайн продажа фото на стоках и не только"></div>
+</div>
+</div>
+</figure>
+<p>NFT можно использовать для фандрейзинга или стимулирования бизнеса. К&nbsp;примеру, вы&nbsp;можете продавать токены (и&nbsp;сразу получить деньги), за&nbsp;которые покупатели смогут в&nbsp;будущем пользоваться услугами вашей компании. Еще варианты&nbsp;— создать NFT-кампанию по&nbsp;сбору средств или разработать программу лояльности для покупателей токенов.</p>
+<p><strong>Как это сделать</strong></p>
+<p>Почитать об&nbsp;этом можно в&nbsp;<a href="https://www.inc.com/tor-constantino/5-ways-nfts-can-kickstart-your-small-business.html">заметке</a>&nbsp;Inc. «5 вариантов запуска небольшого бизнеса с&nbsp;помощью NFT».</p>
+<h3>Возможность № 3. Создать проект вокруг комьюнити</h3>
+<p><span class="footnote" tabindex="0" data-controller="popover" data-bs-content="
+<span class=&quot;popover__close&quot; role=&quot;button&quot; title=&quot;Close&quot; tabindex=&quot;0&quot;></span>
+<p>Изображение профиля.</p>
+" data-bs-trigger="focus" data-bs-custom-class="popover_footnote" data-footnote="{&quot;content&quot;:&quot;Изображение профиля.&quot;,&quot;linkContent&quot;:&quot;&quot;,&quot;linkUrl&quot;:{&quot;value&quot;:&quot;&quot;,&quot;meta&quot;:{}}}">PFP</span>&nbsp;— то, что идентифицирует человека в&nbsp;цифровой среде и&nbsp;определяет его как члена того или иного сообщества. К&nbsp;примеру, <a href="https://twitter.com/worldofwomennft" target="_blank" rel="noopener">@worldofwomennft</a>,<a href="https://twitter.com/BoredApeYC" target="_blank" rel="noopener"> @BoredApeYC</a>&nbsp;— отличные примеры популярных брендов, которые построили вокруг комьюнити.&nbsp;</p>
+<p>Если вы&nbsp;хотите создать клуб по&nbsp;интересам или, к&nbsp;примеру, тематическое сообщество, соберите деньги с&nbsp;помощью NFT арт-проекта.</p>
+<p><strong>Как это сделать</strong></p>
+<p>Мини-инструкция, как создавать PFP и&nbsp;зарабатывать на&nbsp;этом деньги, опубликована на&nbsp;сайте <a href="https://www.one37pm.com/nft/making-of-a-pfp">one37pm.com</a>.</p>
+<h3>Возможность № 4. Заработать на&nbsp;играх</h3>
+<p>Игры, которые работают по&nbsp;модели «play-to-earn», позволяют пользователям зарабатывать. К&nbsp;примеру, в&nbsp;онлайн-игре Axie Infinity нужно находить «Акси»&nbsp;— домашних животных. «Акси»&nbsp;— NFT-токены, на&nbsp;них можно заработать до&nbsp;$2 000 в&nbsp;месяц.</p>
+<p><strong>Как это сделать</strong></p>
+<p>Играйте в&nbsp;«play-to-earn» игры. Вот небольшой список:</p>
+<ul>
+<li><a href="https://axieinfinity.com/" target="_blank" rel="noopener">Axie Infinity</a></li>
+<li><a href="https://plantvsundead.com/" target="_blank" rel="noopener">Plant VS&nbsp;Undead</a></li>
+<li><a href="https://godsunchained.com/" target="_blank" rel="noopener">Gods Unchained&nbsp;</a></li>
+<li><a href="https://decentraland.org/" target="_blank" rel="noopener">Decentraland</a></li>
+<li><a href="https://www.sandbox.game/en/" target="_blank" rel="noopener">The Sandbox</a></li>
+</ul>
+<figure class="article-aside ">
+<div class="article-aside__inner" data-template-id="relatedArticleAside">
+<div class="related-article related-article_aside">
+<div class="related-article__body">
+<div class="related-article__subtitle">По&nbsp;теме</div>
+<div class="related-article__title"><a class="related-article__link" href="https://bbbl.dev/articles/fire-movement" target="_blank" rel="noopener">Движение FIRE: много работать, копить и&nbsp;экономить, чтобы выйти на&nbsp;пенсию в&nbsp;30 лет</a></div>
+</div>
+<div class="related-article__cover-wrapper"><img class="related-article__cover" src="https://bbbl.dev/storage/images/64/29/76/77/derived/15ed118a9976bbe69193d607f75c0f75.jpg" alt="Движение FIRE: много работать копить и экономить чтобы выйти на пенсию в 30 лет"></div>
+</div>
+</div>
+</figure>
+<h3>Возможность № 5. Защита активов</h3>
+<p>NFT&nbsp;— цифровой сертификат, который содержит информацию о&nbsp;владельце актива. Чтобы защитить товары от&nbsp;подделок,&nbsp;компании LVMH, Prada и&nbsp;Cartier <a href="https://maff.io/aura_blockchain/">используют</a> блокчейн Aura.</p>
+<p><strong>Как это сделать</strong></p>
+<p>Используйте новые платформы аутентификации, например, <a href="https://auraluxuryblockchain.com/" target="_blank" rel="noopener">Aura</a> и&nbsp;<a href="https://www.voguebusiness.com/technology/nike-and-rtfkt-take-on-digital-fashion-with-first-cryptokick-sneaker" target="_blank" rel="noopener">Cryptokicks</a> от&nbsp;Nike.</p>
+<h3>Возможность № 6. Защита медицинских данных</h3>
+<p>Медицинские данные тоже конвертируются в&nbsp;NFT.</p>
+<p><strong>Как это сделать</strong></p>
+<p><a href="https://t.co/QwoeQhbaEu">Aimedis</a>&nbsp;— сеть больниц в&nbsp;метавселенной, где пациенты контролируют свои данные с&nbsp;помощью NFT.</p>
+<h3>Возможность № 7. Монетизируйте свои таланты</h3>
+<p>В&nbsp;этом опять-таки помогут NFT и&nbsp;Web3. Следуйте творческим импульсам и&nbsp;делайте мир лучше.</p>
+<h3>Что почитать/посмотреть/послушать об&nbsp;NFT</h3>
+<p><a href="https://future.a16z.com/podcasts/nfts-explainer/" target="_blank" rel="noopener">Подкаст</a> «All about NFTs»: что такое NFT, как работает, какие мифы и&nbsp;заблуждения существуют.</p>
+<p><a href="https://twitter.com/cdixon/status/1469734078425485317" target="_blank" rel="noopener">Тред</a> «7 типов NFT»: о&nbsp;токенах в&nbsp;сфере искусства, музыке, играх и&nbsp;не&nbsp;только.</p>
+<p><a href="https://future.a16z.com/1000-true-fans-try-100/" target="_blank" rel="noopener">Заметка</a> про то, почему 100 фанатов достаточно, чтобы стать успешным художником или музыкантом.</p>
+<p><a href="https://variant.mirror.xyz/T8kdtZRIgy_srXB5B06L8vBqFHYlEBcv6ae2zR6Y_eo" target="_blank" rel="noopener">Колонка</a> о&nbsp;том, как NFT стали альтернативой монетизации платформ.</p>
+<p>«<a href="https://queue-it.com/blog/exciting-future-nft-trends/" target="_blank" rel="noopener">11 трендов NFT</a>»: токены в&nbsp;медицине, искусстве, финансовой сфере, ИИ&nbsp;и&nbsp;не&nbsp;только.</p>
+<p>«<a href="https://www.youtube.com/watch?v=22O6a87-GcQ" target="_blank" rel="noopener">Как NFT формируют интернет будущего</a>». Выступление на&nbsp;TED.</p>
+<p>«<a href="https://www.amazon.com/NFT-Handbook-Create-Non-Fungible-Tokens/dp/111983838X" target="_blank" rel="noopener">Справочник по&nbsp;NFT</a>». Книга о&nbsp;том, как создавать, покупать и&nbsp;продавать токены.</p>
+<figure class="incut ">
+<div class="card card_media" data-template-id="relatedArticle">
+<div class="card__img-wrap"><img class="card__img" src="https://bbbl.dev/storage/images/17/28/92/57/derived/551a9918973d23a9b9a72f588da4c860.jpg" alt="Как не потерять деньги: 9 схем которые используют криптовалютные мошенники"></div>
+<div class="card__info">
+<div class="card__body"><a class="card__link" href="https://bbbl.dev/articles/cryptocurrency-scam-schemes" target="_blank" rel="noopener"> Как не&nbsp;потерять деньги: 9 схем, которые используют криптовалютные мошенники </a>
+<div class="card__meta">По&nbsp;теме</div>
+<div class="card__title">Как не&nbsp;потерять деньги: 9 схем, которые используют криптовалютные мошенники</div>
+</div>
+</div>
+</div>
+</figure>
+<div id="admixer_471a05f563cf478eb73fb40ccbfa8361_zone_101242_sect_44647_site_38180" data-sender="admixer" class="position-static referral-widget-wrapper"></div>
+<script type="6f0830732c2e99fb82053d93-text/javascript">
+            (window.globalAmlAds = window.globalAmlAds || []).push(function() {
+              globalAml.display('admixer_471a05f563cf478eb73fb40ccbfa8361_zone_101242_sect_44647_site_38180');
+            });
+          </script>
+<div class="article-widget">
+<a class="article-widget__ref" href="https://bbbl.dev/articles/inner-hr?utm_source=bbbl&utm_medium=news&utm_campaign=articleprefooter&utm_content=inner_hr" target="_blank" rel="noopener"></a>
+<div class="article-widget__image-wrapper">
+<img class="article-widget__image" src="https://bbbl.dev/storage/images/75/76/92/62/original/0a55ddd1311c7669f7caa6cdb4ebd6f1.jpg" alt="article widget img" loading="lazy" data-insert="img">
+</div>
+<div class="article-widget__body">
+<div class="article-widget__title">
+«‎‎Главная ошибка собеса — подгонять ответы»‎. Рекрутеры рассказали о найме в IT
+</div>
+<div class="article-widget__text">
+Откуда берутся IT-рекрутеры, с какими трудностями они сталкиваются в попытках закрыть позиции и какие ошибки сами совершают на интервью — полезно знать перед тем, как искать работу.
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="article__footer">
+<div class="article__container">
+<div class="article__meta">
+Изображения: Артем Марков
+</div>
+<div class="article__meta">
+Теги: <a href="/articles?tag=%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B8">инвестиции</a>, <a href="/articles?tag=%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81">бизнес</a>, <a href="/articles?tag=%D1%84%D0%B8%D0%BD%D0%B0%D0%BD%D1%81%D0%BE%D0%B2%D0%B0%D1%8F+%D0%B3%D1%80%D0%B0%D0%BC%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C">финансовая грамотность</a>, <a href="/articles?tag=%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C">безопасность</a>, <a href="/articles?tag=%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE%D0%B2%D0%B0%D0%BB%D1%8E%D1%82%D1%8B">криптовалюты</a>
+</div>
+<span class="article__meta mt-4 d-none d-lg-block">
+Нашли ошибку в тексте — выделите её и нажмите Ctrl+Enter.
+</span>
+<span class="article__meta mt-4 d-block d-lg-none">
+Нашли ошибку в тексте — выделите её и нажмите кнопку «Сообщить об ошибке».
+</span>
+</div>
+</div>
+<div class="share article__share article__share_bottom">
+<div class="share__body">
+<a href="https://telegram.me/share/url?url=https://bbbl.dev/articles/nft&text=Как извлечь выгоду из NFT: 7 способов" class="share__link" title="Telegram" target="_blank" rel="noopener">
+<svg class="share__icon" width="32" height="32"><use href="#telegram" /></svg>
+</a>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https://bbbl.dev/articles/nft" class="share__link" title="Facebook" target="_blank" rel="noopener">
+<svg class="share__icon" width="32" height="32"><use href="#facebook" /></svg>
+</a>
+<a href="https://twitter.com/intent/tweet?url=https://bbbl.dev/articles/nft&text=Как извлечь выгоду из NFT: 7 способов" class="share__link" title="Twitter" target="_blank" rel="noopener">
+<svg class="share__icon" width="32" height="32"><use href="#twitter" /></svg>
+</a>
+<a href="https://www.linkedin.com/sharing/share-offsite/?url=https://bbbl.dev/articles/nft" class="share__link" title="LinkedIn" target="_blank" rel="noopener">
+<svg class="share__icon" width="32" height="32"><use href="#linkedIn" /></svg>
+</a>
+</div>
+</div>
+</article>
+</div>
+</section>
+<section class="section d-none_mobile">
+<div class="section__body">
+<div class="placard">
+<a href="/pages/ads" class="placard__link">Размещение рекламы на Bubble</a>
+<div class="placard__inner">
+<ins class="dcmads" style="display:inline-block;width:720px;height:200px" data-dcm-placement="N755099.4715382BBBL.DEV/B28839339.349933445" data-dcm-rendering-mode="iframe" data-dcm-https-only data-dcm-gdpr-applies="gdpr=${GDPR}" data-dcm-gdpr-consent="gdpr_consent=${GDPR_CONSENT_755}" data-dcm-addtl-consent="addtl_consent=${ADDTL_CONSENT}" data-dcm-ltd="false" data-dcm-resettable-device-id data-dcm-app-id>
+<script src="https://www.googletagservices.com/dcm/dcmads.js" type="6f0830732c2e99fb82053d93-text/javascript"></script>
+</ins>
+</div>
+</div>
+</div>
+</section>
+<section class="section d-none_desktop">
+<div class="section__body">
+<div class="placard">
+<a href="/pages/ads" class="placard__link">Размещение рекламы на Bubble</a>
+<div class="placard__inner">
+<ins class="dcmads" style="display:inline-block;width:240px;height:400px" data-dcm-placement="N755099.4715382BBBL.DEV/B28839339.350260803" data-dcm-rendering-mode="iframe" data-dcm-https-only data-dcm-gdpr-applies="gdpr=${GDPR}" data-dcm-gdpr-consent="gdpr_consent=${GDPR_CONSENT_755}" data-dcm-addtl-consent="addtl_consent=${ADDTL_CONSENT}" data-dcm-ltd="false" data-dcm-resettable-device-id data-dcm-app-id>
+<script src="https://www.googletagservices.com/dcm/dcmads.js" type="6f0830732c2e99fb82053d93-text/javascript"></script>
+</ins>
+</div>
+</div>
+</div>
+</section>
+<div class="section telegram-widget">
+<a class="telegram-widget__ref" href="https://t.me/bbblmag" target="_blank" rel="noopener noreferrer">
+</a>
+<div class="telegram-widget__icon telegram-widget__icon_sm">
+<svg width="48" height="48">
+<use href="#telegram" />
+</svg>
+</div>
+<div class="telegram-widget__text telegram-widget__text_lg">
+<span>Телеграм-канал</span>
+<span class="telegram-widget__icon">
+<svg width="48" height="48">
+<use href="#telegram" />
+</svg>
+</span>
+<span>про&nbsp;Образо&shy;вание, карьеру и&nbsp;жизнь в&nbsp;IT</span>
+</div>
+<div class="telegram-widget__text">
+Телеграм-канал про&nbsp;Образо&shy;вание, карьеру и&nbsp;жизнь в&nbsp;IT
+</div>
+</div>
+<section class="section section_bracket-top">
+<div class="section__header">
+<h2 class="section__title">
+Читайте по теме
+</h2>
+</div>
+<div class="section__body section__body_touch-scroll group-articles group-articles_6">
+<article class="article-card">
+<div class="article-card__header">
+<div class="article-card__cover-wrapper">
+<img srcset="https://bbbl.dev/storage/images/26/07/94/55/derived/6276d2624ddb1260c3c94c5b82ffbff4.jpg 1x, https://bbbl.dev/storage/images/26/07/94/55/derived/591c640c433c52365a5caa209a894b6a.jpg 2x" src="https://bbbl.dev/storage/images/26/07/94/55/derived/6276d2624ddb1260c3c94c5b82ffbff4.jpg" alt="Как устроено налоговое резидентство для айтишников в Польше" loading="lazy" decoding="async" class="article-card__cover">
+</div>
+</div>
+<div class="article-card__body">
+<div class="article-card__tag-group">
+<a class="article-card__tag" href="/categories/finansy">Финансы</a>
+</div>
+<h3 class="article-card__title">
+<a class="article-card__link" target="_self" href="/articles/taxes-poland">Как устроено налоговое резидентство для айтишников в Польше</a>
+</h3>
+<div class="article-card__meta">
+<span class="article-card__author">Bubble</span>
+</div>
+</div>
+</article>
+<article class="article-card">
+<div class="article-card__header">
+<div class="article-card__cover-wrapper">
+<img srcset="https://bbbl.dev/storage/images/21/29/79/50/derived/507957f38bca410893a8747f799e7174.jpg 1x, https://bbbl.dev/storage/images/21/29/79/50/derived/cfce0d997cf2926a1e2b98f4fbb0b37b.jpg 2x" src="https://bbbl.dev/storage/images/21/29/79/50/derived/507957f38bca410893a8747f799e7174.jpg" alt="Избавиться от грязных монет сложно: почему опасно покупать меченую крипту" loading="lazy" decoding="async" class="article-card__cover">
+</div>
+</div>
+<div class="article-card__body">
+<div class="article-card__tag-group">
+<a class="article-card__tag" href="/categories/finansy">Финансы</a>
+</div>
+<h3 class="article-card__title">
+<a class="article-card__link" target="_self" href="/articles/dirty-coins-crypto">Избавиться от грязных монет сложно: почему опасно покупать меченую крипту</a>
+</h3>
+<div class="article-card__meta">
+<span class="article-card__author">Bubble </span>
+</div>
+</div>
+</article>
+<article class="article-card">
+<div class="article-card__header">
+<div class="article-card__cover-wrapper">
+<img srcset="https://bbbl.dev/storage/images/87/19/21/70/derived/49fd43bf4e557577814d70e472bc26c1.jpg 1x, https://bbbl.dev/storage/images/87/19/21/70/derived/75fcea1654ddebe8f2206889d88aa426.jpg 2x" src="https://bbbl.dev/storage/images/87/19/21/70/derived/49fd43bf4e557577814d70e472bc26c1.jpg" alt="«Токеномика уходит в прошлое». Участница Ethereum Devcon рассказала о трендах блокчейн-технологий" loading="lazy" decoding="async" class="article-card__cover">
+</div>
+</div>
+<div class="article-card__body">
+<div class="article-card__tag-group">
+<a class="article-card__tag" href="/categories/finansy">Финансы</a>
+</div>
+<h3 class="article-card__title">
+<a class="article-card__link" target="_self" href="/articles/ethereum-devcon-trends">«Токеномика уходит в прошлое». Участница Ethereum Devcon рассказала о трендах блокчейн-технологий</a>
+</h3>
+<div class="article-card__meta">
+<span class="article-card__author">Bubble </span>
+</div>
+</div>
+</article>
+<article class="article-card">
+<div class="article-card__header">
+<div class="article-card__cover-wrapper">
+<img srcset="https://bbbl.dev/storage/images/18/56/91/80/derived/2aadf7078c4a3a20b4de78e27d80e830.jpg 1x, https://bbbl.dev/storage/images/18/56/91/80/derived/26fcc8550e3c5c03995b4adee863dc64.jpg 2x" src="https://bbbl.dev/storage/images/18/56/91/80/derived/2aadf7078c4a3a20b4de78e27d80e830.jpg" alt="10 книг, чтобы прокачать финансовую грамотность" loading="lazy" decoding="async" class="article-card__cover">
+</div>
+</div>
+<div class="article-card__body">
+<div class="article-card__tag-group">
+<a class="article-card__tag" href="/categories/finansy">Финансы</a>
+</div>
+<h3 class="article-card__title">
+<a class="article-card__link" target="_self" href="/articles/10-books-about-finance">10 книг, чтобы прокачать финансовую грамотность</a>
+</h3>
+<div class="article-card__meta">
+<span class="article-card__author">Bubble </span>
+</div>
+</div>
+</article>
+<article class="article-card">
+<div class="article-card__header">
+<div class="article-card__cover-wrapper">
+<img srcset="https://bbbl.dev/storage/images/38/64/65/02/derived/a656adf5996c87cb4c018ccce64e73e3.jpg 1x, https://bbbl.dev/storage/images/38/64/65/02/derived/2fb8079c29b0c3142469f25ffaa8f113.jpg 2x" src="https://bbbl.dev/storage/images/38/64/65/02/derived/a656adf5996c87cb4c018ccce64e73e3.jpg" alt="10 приложений и книг, которые научат детей распоряжаться деньгами" loading="lazy" decoding="async" class="article-card__cover">
+</div>
+</div>
+<div class="article-card__body">
+<div class="article-card__tag-group">
+<a class="article-card__tag" href="/categories/finansy">Финансы</a>
+</div>
+<h3 class="article-card__title">
+<a class="article-card__link" target="_self" href="/articles/about-finance-for-kids">10 приложений и книг, которые научат детей распоряжаться деньгами</a>
+</h3>
+<div class="article-card__meta">
+<span class="article-card__author">Bubble </span>
+</div>
+</div>
+</article>
+<article class="article-card">
+<div class="article-card__header">
+<div class="article-card__cover-wrapper">
+<img srcset="https://bbbl.dev/storage/images/60/13/12/25/derived/0f94f7334c89242ec80c75244fa472ae.jpg 1x, https://bbbl.dev/storage/images/60/13/12/25/derived/0837ae7696ce45cdd4e8007efd6b4ded.jpg 2x" src="https://bbbl.dev/storage/images/60/13/12/25/derived/0f94f7334c89242ec80c75244fa472ae.jpg" alt="Из чего состоит зарплата разработчика и как ее повысить. Рассказывает CEO" loading="lazy" decoding="async" class="article-card__cover">
+</div>
+</div>
+<div class="article-card__body">
+<div class="article-card__tag-group">
+<a class="article-card__tag" href="/categories/finansy">Финансы</a>
+</div>
+<h3 class="article-card__title">
+<a class="article-card__link" target="_self" href="/articles/salary">Из чего состоит зарплата разработчика и как ее повысить. Рассказывает CEO</a>
+</h3>
+<div class="article-card__meta">
+<span class="article-card__author">Bubble </span>
+</div>
+</div>
+</article>
+</div>
+</section>
+<section class="section section_bracket-top">
+<div class="section__header">
+<h2 class="section__title">
+<a class="section__link" href="/books">
+Гиды
+<svg class="section__icon d-none d-lg-inline-block" width="40" height="40" aria-hidden="true"><use href="#chevronRight" /></svg>
+<svg class="section__icon d-inline-block d-lg-none" width="24" height="24" aria-hidden="true"><use href="#chevronRight" /></svg>
+</a> </h2>
+</div>
+<div class="section__body section__body_touch-scroll collection-card-group collection-card-group_1">
+<div class="collection-card">
+<a class="collection-card__theme" href="/categories/finansy">Финансы</a>
+<div class="collection-card__cover-wrapper">
+<img srcset="https://bbbl.dev/storage/images/85/93/26/66/derived/13617488bb3646b23fb4bde195bf000f.jpg 1x, https://bbbl.dev/storage/images/85/93/26/66/derived/60e80dbf79e0f9495c488e15271316a8.jpg 2x" src="https://bbbl.dev/storage/images/85/93/26/66/derived/13617488bb3646b23fb4bde195bf000f.jpg" alt="Финансовая грамотность" loading="lazy" decoding="async" class="collection-card__cover">
+<div class="collection-card__counter">10</div>
+</div>
+<h3 class="collection-card__title">
+<a class="collection-card__link" href="/books/financial-literacy">Финансовая грамотность</a>
+</h3>
+<div class="collection-card__description" x-apple-data-detectors="false">Прокачиваем финансовую грамотность в условиях позднего капитализма</div>
+</div>
+</div>
+</section>
+<div class="section subscription-section">
+<img class="subscription-section__img subscription-section__img_top" src="https://assets.bbbl.dev/packs/media/images/subscription/nerd-head-90b8be88c6b65f936f642dfdfaee5bb0.png" loading="lazy" decoding="async" alt="nerd head">
+<img class="subscription-section__img subscription-section__img_bottom" src="https://assets.bbbl.dev/packs/media/images/subscription/nerd-letter-e523aa45dad5099c399cb187d6fb6478.png" loading="lazy" decoding="async" alt="nerd letter">
+<div class="subscription-section__row">
+<h4 class="subscription-section__title">
+Мир содрогнулся, когда&nbsp;узнал, что&nbsp;читают разработчики по&nbsp;ночам...
+</h4>
+<p class="subscription-section__text">
+Ничего криминального&nbsp;&mdash; только&nbsp;полезная еженедельная рассылка&nbsp;от&nbsp;Bubble.<span class="d-none d-lg-inline"> Тренды в&nbsp;айти, лайфхаки и&nbsp;советы экспертов.</span>
+</p>
+<p class="subscription-section__text">Подписывайся!</p>
+</div>
+<div class="subscription-section__row">
+<form accept-charset="UTF-8" data-remote="true" method="post" class="subscription-form" action="https://bbbl.dev/subscriptions" data-controller="subscription-form" data-subscription-form-server-error-message-value="Что-то пошло не так. Попробуй позже" data-subscription-form-validation-error-message-value="Нам нужен настоящий адрес эл. почты" data-subscription-form-success-class="subscription-form_success" data-subscription-form-error-class="subscription-form_error" data-subscription-form-loading-class="subscription-form_loading" data-action="submit->subscription-form#handleFormSubmit" novalidate>
+<div class="subscription-form__plug subscription-form__plug_white">Ты&nbsp;&mdash; котик! Проверяй почту</div>
+<input type="hidden" name="g-recaptcha-response" data-subscription-form-target="recaptchaInput">
+<div class="subscription-form__form-group">
+<input class="subscription-form__input" data-subscription-form-target="input" type="email" pattern="^[^@\s]+@[^@\s]+$" placeholder="Адрес эл. почты" name="subscription[email]" id="subscription_email" required>
+<button class="subscription-form__btn" data-sitekey="6Lez8XgeAAAAADbuonUHfJz7UvZjPAgbjV86mur4" type="submit">
+<svg class="subscription-form__icon" width="24" height="24">
+<use href="#arrowRight"></use>
+</svg>
+<div class="subscription-form__spinner spinner-border" role="status"></div>
+</button>
+</div>
+<div class="subscription-form__error-message" data-subscription-form-target="errorMessage">
+Нам нужен настоящий адрес&nbsp;эл. почты
+</div>
+</form>
+</div>
+</div>
+<section class="section section_bracket-top">
+<div class="section__header">
+<h2 class="section__title">
+<a class="section__link" target="_blank" rel="noopener" href="https://courses.thedev.io">
+Курсы
+<svg class="section__icon d-none d-lg-inline-block" width="40" height="40"><use href="#chevronRight" /></svg>
+<svg class="section__icon d-inline-block d-lg-none" width="24" height="24"><use href="#chevronRight" /></svg>
+</a>
+</h2>
+<span class="d-none d-lg-inline-block ms-auto text-primary">
+<svg class="section__icon" width="157" height="28"><use href="#logoDevbyCourses" /></svg>
+</span>
+</div>
+<div class="section__body section__body_touch-scroll course-card-group">
+<div class="course-card">
+<div class="course-card__body">
+<div class="course-card__title">Спецпредложения</div>
+<div class="course-card__description">Курсы со скидками для пользователей Bubble</div>
+</div>
+<a href="https://courses.thedev.io/collections/spetsialnye-usloviya-dlya-polzovatelei-devkursy?sort=local" class="course-card__button btn btn btn-primary" target="_blank" rel="noopener">
+<span class="d-inline-block py-1">Выбрать курс</span>
+</a>
+</div>
+<div class="course-card">
+<div class="course-card__body">
+<div class="course-card__title">Освоить за выходные</div>
+<div class="course-card__description">Экспресс-курсы программирования</div>
+</div>
+<a href="https://courses.thedev.io/courses?area[id]=13036779&sort=local&formatt[ids][]=12250893" class="course-card__button btn btn btn-primary" target="_blank" rel="noopener">
+<span class="d-inline-block py-1">Выбрать курс</span>
+</a>
+</div>
+<div class="course-card">
+<div class="course-card__body">
+<div class="course-card__title">Баг пофиксил</div>
+<div class="course-card__description">Курсы для QA-инженеров</div>
+</div>
+<a href="https://courses.thedev.io/courses?area%5Bid%5D=13036779&sort=local&specialization%5Bids%5D%5B%5D=18506791" class="course-card__button btn btn btn-primary" target="_blank" rel="noopener">
+<span class="d-inline-block py-1">Выбрать курс</span>
+</a>
+</div>
+<div class="course-card">
+<div class="course-card__body">
+<div class="course-card__title">Звездочка к резюме</div>
+<div class="course-card__description">Курсы по карьерному росту</div>
+</div>
+<a href="https://courses.thedev.io/collections/zvezdochka-k-rezume?sort=local" class="course-card__button btn btn btn-primary" target="_blank" rel="noopener">
+<span class="d-inline-block py-1">Выбрать курс</span>
+</a>
+</div>
+</div>
+</section>
+
+<div class="modal fade" tabindex="-1" id="errorReportModal" role="dialog" aria-labelledby="errorReportModal" aria-hidden="true" data-controller="error-report-selection error-report-popup" data-action="keydown@document->error-report-popup#handleKeyDown
+               selectionchange@document->error-report-selection#handleSelectionChange
+               selectstart@document->error-report-selection#handleSelectStart
+               error-report-button.buttonClick@window->error-report-selection#handleMobileButtonClick
+               error-report-selection.showPopup@window->error-report-popup#handleShow
+               error-report-popup.keyDown@window->error-report-selection#handleKeyDown" data-error-report-selection-areas-value="[&quot;.article__header&quot;, &quot;.article__body&quot;]">
+<div class="modal-dialog modal-dialog-centered">
+<div class="modal-content p-lg-3 p-0">
+<div class="modal-header p-lg-4 p-3">
+<div class="modal-title">Ошибка в тексте</div>
+<svg class="modal-close" width="24" height="24" data-bs-dismiss="modal" aria-label="Close">
+<use href="#close"></use>
+</svg>
+</div>
+<form id="error-report-form" action="/error-reports" data-controller="error-report-form" data-action="hidden.bs.modal@window->error-report-form#handleCloseModal
+                         shown.bs.modal@window->error-report-form#handleOpenModal" data-error-report-form-modal-id-value="#errorReportModal" accept-charset="UTF-8" method="post">
+<div data-error-report-form-target="notificationMessage"></div>
+<div data-error-report-form-target="formContent">
+<div class="modal-header d-block p-3 pt-0 pb-2 pb-lg-3 fs-5 mt-1">
+<span>...</span><span data-error-report-selection-target="selectedText" data-error-report-form-target="selectedText" name="error_report[content]">
+</span><span>...</span>
+</div>
+<div class="modal-body p-3 pb-1 p-lg-4 pb-lg-1 pt-lg-3">
+<input type="hidden" name="g-recaptcha-response" data-error-report-form-target="recaptchaInput">
+<input type="hidden" name="error_report[article_id]" value="14790255">
+<label class="form-label ff-secondary" for="textarea">
+Комментарий (необязательно):
+</label>
+<textarea class="form-control" data-error-report-form-target="comment" id="textarea" rows="2" name="error_report[comment]" maxlength="1000"></textarea>
+</div>
+<div class="modal-footer mt-1 p-3 p-lg-4">
+<button class="btn btn-lg btn-primary w-100 m-0" type="submit" name="commit" data-action="click->error-report-form#handleFormSubmit" data-error-report-form-target="submitButton">
+<span class="default">Отправить</span>
+</button>
+</div>
+</div>
+<div data-error-report-form-target="successFormContent">
+<div class="modal-footer mt-2 p-3 p-lg-4">
+<button class="btn btn-lg btn-primary w-100 m-0" type="button" data-bs-dismiss="modal" aria-label="Close">
+<span class="success">Всегда пожалуйста</span>
+</button>
+</div>
+</div>
+<template data-error-report-form-target="successMessage">
+<div class="modal-header pb-0 pt-1 fs-5">
+Спасибо, что помогаете делать это медиа ещё лучше!
+</div>
+</template>
+<template data-error-report-form-target="errorMessage">
+<div class="modal-header p-3 pt-0 p-lg-4 pt-lg-0 pb-lg-3">
+<div class="alert alert-danger mb-0">
+Что-то пошло не так. Пожалуйста, попробуйте ещё раз.
+</div>
+</div>
+</template>
+</form>
+</div>
+</div>
+</div>
+<div class="incut-block d-none d-lg-block my-0">
+<a href="https://mediakit.devby.io" class="incut-block__link fs-9" target="_blank" rel="noopener">Реклама на Bubble</a>
+<div class="incut-block__body p-0">
+
+<div id="admixer_6cbcce6fd2ad4e7c957d7f059305e71b_zone_113928_sect_44647_site_38180" data-sender="admixer"></div>
+<script type="6f0830732c2e99fb82053d93-text/javascript">
+    (window.globalAmlAds = window.globalAmlAds || []).push(function() {
+    globalAml.display('admixer_6cbcce6fd2ad4e7c957d7f059305e71b_zone_113928_sect_44647_site_38180');
+    });
+    </script>
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1094641317759535" crossorigin="anonymous" type="6f0830732c2e99fb82053d93-text/javascript"></script>
+<ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-1094641317759535" data-ad-slot="8830681249"></ins>
+<script type="6f0830732c2e99fb82053d93-text/javascript">
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+</div>
+<div class="incut-block d-block d-lg-none my-0">
+<a href="https://mediakit.devby.io" class="incut-block__link fs-9" target="_blank" rel="noopener">Реклама на Bubble</a>
+<div class="incut-block__body p-0">
+
+<div id="admixer_f8cbdbcd61614730a2977529ebbe36f5_zone_113931_sect_44647_site_38180" data-sender="admixer"></div>
+<script type="6f0830732c2e99fb82053d93-text/javascript">
+        (window.globalAmlAds = window.globalAmlAds || []).push(function() {
+    globalAml.display('admixer_f8cbdbcd61614730a2977529ebbe36f5_zone_113931_sect_44647_site_38180');
+    });
+    </script>
+
+</div>
+</div>
+</main>
+<div class="socials">
+<div class="socials__title">Подписывайся на Bubble в соцсетях</div>
+<div class="socials__group">
+<a href="https://www.instagram.com/bbblmag" class="socials__link" title="Instagram" target="_blank" rel="noopener">
+<svg class="share__icon" width="32" height="32" aria-hidden="true"><use href="#instagram" /></svg>
+</a>
+</div>
+<span class="d-none d-lg-inline-block">Подписывайся</span>
+<div class="socials__group">
+<a href="https://t.me/bbblmag" class="socials__link" title="Telegram" target="_blank" rel="noopener">
+<svg class="share__icon" width="32" height="32" aria-hidden="true"><use href="#telegram" /></svg>
+</a>
+</div>
+<span class="d-none d-lg-inline-block">на BUBBLE</span>
+<div class="socials__group">
+<a href="https://www.facebook.com/bbblmag" class="socials__link" title="Facebook" target="_blank" rel="noopener">
+<svg class="share__icon" width="32" height="32" aria-hidden="true"><use href="#facebook" /></svg>
+</a>
+</div>
+<span class="d-none d-lg-inline-block">в социальных</span>
+<div class="socials__group">
+<a href="https://www.linkedin.com/company/bbblmag/" class="socials__link" title="LinkedIn" target="_blank" rel="noopener">
+<svg class="share__icon" width="32" height="32" aria-hidden="true"><use href="#linkedIn" /></svg>
+</a>
+</div>
+<span class="d-none d-lg-inline-block">сетях</span>
+<div class="socials__group">
+<a href="https://twitter.com/bbblmag" class="socials__link" title="Twitter" target="_blank" rel="noopener">
+<svg class="share__icon" width="32" height="32" aria-hidden="true"><use href="#twitter" /></svg>
+</a>
+</div>
+</div>
+<footer class="footer">
+<div class="d-flex align-items-center justify-content-between mb-4 mb-lg-1">
+<svg class="d-none d-lg-block" width="112" height="29"><use href="#logoCopyright" /></svg>
+<svg class="d-block d-lg-none" width="72" height="18"><use href="#logoCopyright" /></svg>
+<svg width="52" height="20"><use href="#logoDevby" /></svg>
+</div>
+<nav class="footer-nav">
+<a href="/pages/ads" class="footer-nav__link">Размещение рекламы на Bubble</a>
+<a href="/pages/contacts" class="footer-nav__link">Контакты</a>
+<a href="/pages/user-agreement" class="footer-nav__link">Пользовательское соглашение</a>
+<a href="/pages/about" class="footer-nav__link">О проекте</a>
+<a href="https://dev.ua" class="footer-nav__link" target="_blank" rel="noopener">Новости в Украине</a>
+<a href="https://devby.io" class="footer-nav__link" target="_blank" rel="noopener">Новости в Беларуси</a>
+<a href="https://dev.media/work-at-devmedia-1" class="footer-nav__link" target="_blank" rel="noopener">Вакансии у нас</a>
+</nav>
+<div class="footer__text">Перепечатка материалов возможна только при письменном согласии редакции. При цитировании прямая ссылка на соответствующие материалы обязательна. Пишите на <a href="/cdn-cgi/l/email-protection#acc9c8c5d8c3deeccececec082c8c9da" class="footer__link"><span class="__cf_email__" data-cfemail="e287868b968d90a28080808ecc868794">[email&#160;protected]</span></a></div>
+<a href="https://skdo.systems" class="footer__link d-inline-block" title="SKDO website" target="_blank" rel="noopener">
+<svg width="65" height="10"><use href="#logoSkdo" /></svg>
+</a>
+</footer>
+</div>
+<button class="error-report-btn btn btn-primary" data-controller="error-report-button" data-action="click->error-report-button#handleButtonClick
+                   error-report-selection.changeSelection@window->error-report-button#handleChangeSelection
+                   error-report-selection.startSelection@window->error-report-button#handleStartSelection" data-error-report-button-active-class="error-report-btn_active" data-error-report-button-showed-class="error-report-btn-showed" type="button" data-bs-toggle="modal" data-bs-target="#errorReportModal">
+Сообщить об ошибке
+</button>
+<div class="cookie-dialog cookie-dialog_hidden" data-controller="cookie-dialog" data-cookie-dialog-name-value="is_cookies_terms_accepted" data-cookie-dialog-hidden-class="cookie-dialog_hidden" data-cookie-dialog-delay-value="1.5" data-cookie-dialog-lifetime-value="3650">
+<div class="cookie-dialog__title">
+Мы используем cookies, чтобы анализировать трафик и настраивать рекламу.
+</div>
+<button class="cookie-dialog__btn btn btn-light" data-action="click->cookie-dialog#handleClickButtonAccept">Окей</button>
+</div>
+<div class="modal modal_responsive fade" tabindex="-1" aria-hidden="true" data-controller="subsctiption-popup" data-subsctiption-popup-cookie-name-value="skipped_subsctiption_popup" data-subsctiption-popup-delay-value="1" data-subsctiption-popup-cookie-lifetime-value="7" data-subsctiption-popup-cookie-visited-page-name-value="visited_page_count" data-action="subscription-form.submitted@window->subsctiption-popup#handleSubscriptionFormSubmitted">
+<div class="modal-dialog modal-dialog-centered">
+<div class="modal-content">
+<div class="modal-body">
+<div class="subscription-popup">
+<div class="subscription-popup__header">
+<svg class="modal-close" width="24" height="24" data-action="click->subsctiption-popup#handleClickButtonClose">
+<use href="#close"></use>
+</svg>
+<img class="subscription-popup__img subscription-popup__img_middle" src="https://assets.bbbl.dev/packs/media/images/subscription/nerd-head-90b8be88c6b65f936f642dfdfaee5bb0.png" loading="lazy" decoding="async" alt="nerd head">
+<img class="subscription-popup__img subscription-popup__img_left" src="https://assets.bbbl.dev/packs/media/images/subscription/nerd-letter-e523aa45dad5099c399cb187d6fb6478.png" loading="lazy" decoding="async" alt="nerd letter">
+<h4 class="subscription-popup__title">
+Это сообщение появилось на&nbsp;экране внезапно. Будем считать это знаком.
+</h4>
+</div>
+<div class="subscription-popup__body">
+<p class="subscription-popup__text">
+Подпишись на&nbsp;рассылку Bubble, чтобы каждую неделю получать дайджест о&nbsp;карьере и&nbsp;жизни в&nbsp;цифровую эпоху.
+</p>
+<p class="subscription-popup__text">Сделано с любовью &lt;З</p>
+<img class="subscription-popup__img subscription-popup__img_bottom" src="https://assets.bbbl.dev/packs/media/images/subscription/nerd-92a7c39bc17e93dbf4e4ad1e67894f82.png" loading="lazy" decoding="async" alt="nerd">
+</div>
+<div class="subscription-popup__footer">
+<form accept-charset="UTF-8" data-remote="true" method="post" class="subscription-form" action="https://bbbl.dev/subscriptions" data-controller="subscription-form" data-subscription-form-server-error-message-value="Что-то пошло не так. Попробуй позже" data-subscription-form-validation-error-message-value="Нам нужен настоящий адрес эл. почты" data-subscription-form-success-class="subscription-form_success" data-subscription-form-error-class="subscription-form_error" data-subscription-form-loading-class="subscription-form_loading" data-action="submit->subscription-form#handleFormSubmit" novalidate>
+<div class="subscription-form__plug">Ты&nbsp;&mdash; котик! Проверяй почту</div>
+<input type="hidden" name="g-recaptcha-response" data-subscription-form-target="recaptchaInput">
+<div class="subscription-form__form-group">
+<input class="subscription-form__input" data-subscription-form-target="input" type="email" pattern="^[^@\s]+@[^@\s]+$" placeholder="Адрес эл. почты" name="subscription[email]" id="subscription_email" required>
+<button class="subscription-form__btn" data-sitekey="6Lez8XgeAAAAADbuonUHfJz7UvZjPAgbjV86mur4" type="submit">
+<svg class="subscription-form__icon" width="24" height="24">
+<use href="#arrowRight"></use>
+</svg>
+<div class="subscription-form__spinner spinner-border" role="status"></div>
+</button>
+</div>
+<div class="subscription-form__error-message" data-subscription-form-target="errorMessage">
+Нам нужен настоящий адрес&nbsp;эл. почты
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="telegram-popup telegram-popup_hidden" data-controller="telegram-popup" data-telegram-popup-hidden-class="telegram-popup_hidden" data-telegram-popup-skipped-hidden-period-days-value="14" data-telegram-popup-subscribed-hidden-period-days-value="3650" data-telegram-popup-skipped-cookie-key-value="skipped_telegram_popup_at" data-telegram-popup-subscribed-cookie-key-value="is_visited_telegram_popup">
+<div class="telegram-popup__header">
+<svg width="32" height="32">
+<use href="#telegram" />
+</svg>
+<div class="telegram-popup__close" data-action="click->telegram-popup#handleClickButtonClose">
+<svg width="12" height="12">
+<use href="#close"></use>
+</svg>
+</div>
+</div>
+<div class="telegram-popup__main w-100">
+<div class="telegram-popup__title">Телеграм-канал про Образование, карьеру и жизнь в IT</div>
+<div class="telegram-popup__subtitle">Только полезный контент и ничего лишнего.</div>
+</div>
+<div class="telegram-popup__footer w-100">
+<a class="telegram-popup__btn btn btn-light w-100" target="_blank" rel="noopener noreferrer" href="https://t.me/bbblmag" data-action="click->telegram-popup#handleClickButtonAccept">
+Подключайся!
+</a>
+</div>
+</div>
+<svg class="d-none" width="0" height="0" xmlns="http://www.w3.org/2000/svg">
+<svg id="arrowRight" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+<path d="M19.6569 11L14.364 5.70711C13.9734 5.31658 13.9734 4.68342 14.364 4.29289C14.7545 3.90237 15.3877 3.90237 15.7782 4.29289L23.5563 12.0711L15.7782 19.8492C15.3877 20.2398 14.7545 20.2398 14.364 19.8492C13.9734 19.4587 13.9734 18.8256 14.364 18.435L19.799 13H1C0.447716 13 0 12.5523 0 12C0 11.4477 0.447715 11 1 11H19.6569Z" fill="currentColor" />
+</svg>
+<symbol id="chevronRight" viewBox="0 0 24 24">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8.75 5.57a1.1 1.1 0 0 1 1.5.06l6.55 6.87-6.54 6.87a1.1 1.1 0 0 1-1.51.06 1 1 0 0 1-.07-1.45l5.22-5.48-5.22-5.48a1 1 0 0 1 .07-1.45Z" fill="currentColor" />
+</symbol>
+<symbol id="close" viewBox="0 0 24 24">
+<path d="M20.7 3.3a1 1 0 0 1 0 1.4L13.42 12l7.3 7.3a1 1 0 0 1-1.42 1.4L12 13.42l-7.3 7.3a1 1 0 0 1-1.4-1.42L10.58 12l-7.3-7.3a1 1 0 0 1 1.42-1.4L12 10.58l7.3-7.3a1 1 0 0 1 1.4 0Z" fill="currentColor" />
+</symbol>
+<symbol id="facebook" viewBox="0 0 32 32">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M29 16c0 7.18-5.82 13-13 13S3 23.18 3 16 8.82 3 16 3s13 5.82 13 13zM16 5C9.925 5 5 9.925 5 16c0 5.738 4.393 10.45 10 10.955V19h-3a1 1 0 1 1 0-2h3v-3a4 4 0 0 1 4-4h2a1 1 0 1 1 0 2h-2a2 2 0 0 0-2 2v3h3a1 1 0 1 1 0 2h-3v7.955C22.607 26.45 27 21.738 27 16c0-6.075-4.925-11-11-11z" fill="currentColor" />
+</symbol>
+<symbol id="instagram" viewBox="0 0 32 32">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 16a6 6 0 1 1 12 0 6 6 0 0 1-12 0Zm6-4a4 4 0 1 0 0 8 4 4 0 0 0 0-8Z" fill="currentColor" />
+<path d="M24 9.5a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0Z" fill="currentColor" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M3.5 10.5a7 7 0 0 1 7-7h11a7 7 0 0 1 7 7v11a7 7 0 0 1-7 7h-11a7 7 0 0 1-7-7v-11Zm7-5a5 5 0 0 0-5 5v11a5 5 0 0 0 5 5h11a5 5 0 0 0 5-5v-11a5 5 0 0 0-5-5h-11Z" fill="currentColor" />
+</symbol>
+<symbol id="help" viewBox="0 0 20 20">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 2.64a7.36 7.36 0 1 0 0 14.72 7.36 7.36 0 0 0 0-14.72ZM1 10a9 9 0 1 1 18 0 9 9 0 0 1-18 0Zm9.21-3.25A1.64 1.64 0 0 0 8.4 7.82a.82.82 0 1 1-1.54-.55 3.27 3.27 0 0 1 6.36 1.1c0 1.25-.93 2.07-1.6 2.52a6.58 6.58 0 0 1-1.37.69l-.03.01h-.01l-.27-.77.26.77a.82.82 0 0 1-.51-1.55 3.07 3.07 0 0 0 .3-.12c.2-.1.47-.22.73-.4.56-.37.86-.77.86-1.16a1.64 1.64 0 0 0-1.36-1.61Zm-1.03 7.34a.82.82 0 1 1 .83.82H10a.82.82 0 0 1-.82-.82Z" fill="currentColor" />
+</symbol>
+<symbol id="linkedIn" viewBox="0 0 32 32">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4 5a2 2 0 0 1 2-2h21a2 2 0 0 1 2 2v21a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V5zm23 0H6v21h21V5zm-11.5 7.5a1 1 0 0 1 .975.775A4.5 4.5 0 0 1 23.5 17v4.5a1 1 0 1 1-2 0V17a2.5 2.5 0 0 0-5 0v4.5a1 1 0 1 1-2 0v-8a1 1 0 0 1 1-1zm-3 1a1 1 0 1 0-2 0v8a1 1 0 1 0 2 0v-8zm.5-4a1.5 1.5 0 1 1-3 0 1.5 1.5 0 0 1 3 0z" fill="currentColor" />
+</symbol>
+<symbol id="logoCopyright" viewBox="0 0 112 29">
+<path d="M11.13 11.9a2.75 2.75 0 0 1 3.07.95 1 1 0 0 0 1.6-1.2 4.75 4.75 0 1 0 0 5.7 1 1 0 1 0-1.6-1.2 2.75 2.75 0 1 1-3.07-4.26Z" fill="currentColor" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M12 4.5a10 10 0 1 0 0 20 10 10 0 0 0 0-20Zm-8 10a8 8 0 1 1 16 0 8 8 0 0 1-16 0Z" fill="currentColor" />
+<path d="M38.78 13.62a3.53 3.53 0 0 0 1.84-3.32c0-2.5-1.75-4.44-5.23-4.44h-5.3V23h5.11c3.89 0 5.86-2.18 5.86-4.97a3.9 3.9 0 0 0-2.28-3.74v-.67Zm-3.7-.72h-2.42V8.26h2.42c2.14 0 2.93.87 2.93 2.33 0 1.44-.8 2.3-2.93 2.3Zm0 7.7h-2.42v-5.3h2.42c2.45 0 3.36.98 3.36 2.66 0 1.66-.91 2.64-3.36 2.64ZM52.64 5.86v11.19c0 2.42-.81 3.79-2.95 3.79s-2.95-1.37-2.95-3.8V5.87h-2.57v11.19c0 4.13 1.7 6.26 5.52 6.26 3.82 0 5.52-2.13 5.52-6.26V5.86h-2.57Zm15.27 7.76a3.53 3.53 0 0 0 1.85-3.32c0-2.5-1.76-4.44-5.24-4.44h-5.3V23h5.11c3.9 0 5.86-2.18 5.86-4.97a3.9 3.9 0 0 0-2.28-3.74v-.67Zm-3.7-.72H61.8V8.26h2.42c2.14 0 2.93.87 2.93 2.33 0 1.44-.8 2.3-2.93 2.3Zm0 7.7H61.8v-5.3h2.42c2.45 0 3.36.98 3.36 2.66 0 1.66-.9 2.64-3.36 2.64Zm17.95-6.98A3.53 3.53 0 0 0 84 10.3c0-2.5-1.76-4.44-5.24-4.44h-5.3V23h5.11c3.9 0 5.86-2.18 5.86-4.97a3.9 3.9 0 0 0-2.28-3.74v-.67Zm-3.7-.72h-2.42V8.26h2.42c2.14 0 2.93.87 2.93 2.33 0 1.44-.8 2.3-2.93 2.3Zm0 7.7h-2.42v-5.3h2.42c2.45 0 3.36.98 3.36 2.66 0 1.66-.9 2.64-3.36 2.64Zm11.83 0V5.86h-2.57V23h10.06v-2.4h-7.5Zm12.63 0v-5.28h5.19v-2.4h-5.19V8.26h7.06v-2.4h-9.63V23h9.63v-2.4h-7.06Z" fill="currentColor" />
+</symbol>
+<symbol id="logoDevby" viewBox="0 0 83 32">
+<path d="M63.54 11.68c.77-1.32 2.8-3.58 6.29-1.8 2.33 1.18 3.03 3.75 1.78 6-2.02 3.82-8.23 13.08-8.23 13.08a5.31 5.31 0 0 1-4.43 2.34 5 5 0 0 1-4.35-2.73c-.54-.93-3.03-5.45-3.03-5.45h-.07c-1.25 1.72-6.92 8.34-14.3 8.34-4.42 0-7.14-2.34-7.92-3.28-1.16.63-7.53 3.82-14.83 3.82C7.6 32 0 28.48 0 20.54c0-9.03 10.02-10.03 13.9-8.94l-.15-7.86c0-2.1 1.94-3.74 4.43-3.74 2.56 0 4.66 1.64 4.66 3.74l-.08 12.38c0 2.25-2.25 3.73-4.27 3.73-1.85 0-3.42-1.05-3.97-1.42l-.07-.06c-1.71-.54-4.66.08-4.66 2.89 0 1.55 1.32 3.03 3.88 3.03 4.2 0 9.09-2.02 12.5-5.45 0-1.56 1.25-9.96 8.16-9.96 3.73 0 6.37 2.49 6.37 6.3 0 3.9-3.1 7.24-4.82 8.41v.08c4.66 0 9.4-6.07 11.11-9.73.08-.47.62-3.12 3.26-3.74 1.48-.31 3.42-.16 4.66 2.02.7 1.33 3.65 7.79 3.65 7.79h.08s2.8-4.44 4.9-8.33ZM71 25.15c0-3.35 2.63-6 5.97-6a5.94 5.94 0 0 1 5.98 6 5.92 5.92 0 0 1-5.98 5.92A5.92 5.92 0 0 1 71 25.15Z" fill="currentColor" />
+</symbol>
+<symbol id="logoDevbyCourses" viewBox="0 0 157 28" fill="none">
+<path d="M55.5934 10.219C56.2731 9.06081 58.04 7.08529 61.0984 8.65212C63.1373 9.67404 63.7489 11.9222 62.6615 13.8979C60.8945 17.2361 55.4575 25.3431 55.4575 25.3431C54.5739 26.6375 53.1468 27.3868 51.5837 27.3868C50.0884 27.3868 48.6612 26.5694 47.7777 25.0024C47.302 24.185 45.1272 20.2336 45.1272 20.2336H45.0592C43.9718 21.7325 39.0106 27.5232 32.5541 27.5232C28.6802 27.5232 26.3015 25.4794 25.622 24.6618C24.6025 25.2069 19.0296 28 12.641 28C6.66036 28 0 24.9211 0 17.9722C0 10.0696 8.76723 9.19704 12.1654 10.1508L12.0295 3.27009C12.0295 1.4308 13.7284 0 15.9032 0C18.146 0 19.9811 1.4308 19.9811 3.27009C19.9811 4.49635 19.9131 14.1023 19.9131 14.1023C19.9131 16.078 17.9422 17.3724 16.175 17.3724C14.5582 17.3724 13.1875 16.4469 12.7072 16.1226L12.641 16.078C11.1459 15.601 8.56337 16.1461 8.56337 18.5986C8.56337 19.9611 9.71873 21.2555 11.9615 21.2555C15.6314 21.2555 19.9131 19.4843 22.9034 16.4867C22.9034 15.1242 23.9908 7.76644 30.0396 7.76644C33.3018 7.76644 35.6125 9.9465 35.6125 13.2847C35.6125 16.691 32.8939 19.6205 31.3988 20.6424V20.7106C35.4764 20.7106 39.6222 15.3966 41.1173 12.1947C41.1853 11.786 41.6611 9.46969 43.9718 8.92458C45.2631 8.65212 46.9623 8.78835 48.0497 10.696C48.6612 11.8541 51.2438 17.5086 51.2438 17.5086H51.3117C51.3117 17.5086 53.7585 13.6253 55.5934 10.219Z" fill="#283CDC" />
+<path d="M110.559 14.154C110.293 15.218 109.481 15.834 108.249 15.834C106.191 15.834 105.253 14.154 105.253 12.18C105.253 10.206 106.205 8.526 108.263 8.526C109.439 8.526 110.125 9.002 110.447 9.954H112.211C111.847 8.176 110.391 7 108.263 7C105.253 7 103.545 9.17 103.545 12.18C103.545 15.19 105.239 17.36 108.249 17.36C110.517 17.36 111.987 16.044 112.323 14.154H110.559Z" fill="#283CDC" />
+<path d="M76 17.178H77.68V12.796H80.382L82.426 17.178H84.162L81.796 12.04L84.036 7.182H82.3L80.382 11.27H77.68V7.182H76V17.178Z" fill="#283CDC" />
+<path d="M88.8411 12.026L86.2931 7.182H84.5011L88.1971 14.182L86.7691 17.178H88.4771L93.2651 7.182H91.5431L89.2331 12.026H88.8411Z" fill="#283CDC" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M94.4986 17.178V7.182H98.8946C101.135 7.182 102.395 8.344 102.395 10.262C102.395 12.222 101.135 13.384 98.8946 13.384H96.1786V17.178H94.4986ZM96.1786 8.666V11.9H98.6426C100.141 11.9 100.687 11.284 100.687 10.276C100.687 9.254 100.141 8.666 98.6426 8.666H96.1786Z" fill="#283CDC" />
+<path d="M124.511 17.178H122.817V7.182H124.511V17.178Z" fill="#283CDC" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M121.599 13.972C121.599 15.988 120.297 17.178 118.001 17.178H113.941V7.182H115.621V10.794H118.001C120.297 10.794 121.599 11.97 121.599 13.972ZM115.621 12.278V15.694H117.735C119.317 15.694 119.891 15.05 119.891 13.972C119.891 12.908 119.317 12.278 117.735 12.278H115.621Z" fill="#283CDC" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M62.1178 22.0049C62.1178 19.1655 64.2886 16.9022 67.0831 16.7657C66.389 15.3238 66 13.7073 66 12C66 5.92487 70.9249 1 77 1H122C128.075 1 133 5.92487 133 12C133 18.0751 128.075 23 122 23H77C75.4292 23 73.9353 22.6707 72.5835 22.0775C72.5449 24.9052 70.2486 27.1824 67.351 27.1824C64.4286 27.1824 62.1178 24.8661 62.1178 22.0049ZM68.2432 16.8327C70.3769 17.1897 72.0447 18.8099 72.4753 20.9202C73.834 21.6108 75.3715 22 77 22H122C127.523 22 132 17.5228 132 12C132 6.47715 127.523 2 122 2H77C71.4771 2 67 6.47715 67 12C67 13.7528 67.451 15.4003 68.2432 16.8327Z" fill="#283CDC" />
+</symbol>
+<symbol id="logoHeader" viewBox="0 0 1344 162" fill="url(#logoHeaderGradient)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M164.9 159.96H0V0h164.69c47.52 0 59.99 18.06 59.99 36.12v1.72c0 19.13-16.56 28.81-30.1 31.6 17.84 3.45 39.34 13.34 39.34 41.72v2.15c0 25.15-16.55 46.65-69.01 46.65Zm-13.97-111.8c0-6.23-3.87-9.03-15.27-9.03H73v18.7h62.66c11.4 0 15.27-3.43 15.27-9.24v-.43Zm6.23 58.91c0-6.23-3.22-10.96-17.84-10.96H73v23.22h66.32c14.62 0 17.84-5.6 17.84-11.83v-.43Z" />
+<path d="M351.16 162C250.48 162 238 106.29 238 75V0h72.93v68.14c0 18.43 7.96 39.43 44.96 39.43h.22c36.35 0 44.96-21 44.96-39.43V0H474v75c0 31.07-13.55 87-112.94 87h-9.9Z" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M483 159.96h164.9c52.47 0 69.02-21.5 69.02-46.66v-2.14c0-28.38-21.5-38.27-39.34-41.72 13.54-2.79 30.1-12.46 30.1-31.6v-1.72C707.67 18.06 695.2 0 647.68 0H483v159.96ZM618.66 39.13c11.4 0 15.27 2.8 15.27 9.03v.43c0 5.8-3.87 9.24-15.26 9.24H556v-18.7h62.66Zm3.66 56.98c14.62 0 17.84 4.72 17.84 10.96v.43c0 6.23-3.22 11.83-17.84 11.83H556V96.1h66.32Z" />
+<path fill-rule="evenodd" clip-rule="evenodd" d="M887.9 159.96H723V0h164.69c47.51 0 59.98 18.06 59.98 36.12v1.72c0 19.13-16.55 28.81-30.1 31.6 17.85 3.45 39.35 13.34 39.35 41.72v2.15c0 25.15-16.55 46.65-69.01 46.65Zm-13.97-111.8c0-6.23-3.87-9.03-15.26-9.03H796v18.7h62.66c11.4 0 15.27-3.43 15.27-9.24v-.43Zm6.24 58.91c0-6.23-3.23-10.96-17.85-10.96H796v23.22h66.32c14.62 0 17.84-5.6 17.84-11.83v-.43Z" />
+<path d="M965 0v159.96h183v-52.03h-111V0h-72Z" />
+<path d="M1157 159.96V0h187v42.35h-116v15.7h114v41.71h-114v17.41h116v42.79h-187Z" />
+</symbol>
+<symbol id="logoSkdo" viewBox="0 0 65 10">
+<path d="m4.17 3.86 5.82.32c3.33.17 4.27 1.06 4.22 2.26 0 1.6-1.15 2.71-7.15 2.71-2.75 0-5.1-.22-6.7-.53v-2c1.5.4 3.81.7 6.7.7 4 0 4.62-.17 4.62-.61 0-.36-.31-.58-1.78-.63L4 5.82C.89 5.64 0 4.62 0 3.6 0 2.04 1.33.8 7.55.8c3.11 0 5.06.27 6.3.44V3.2c-1.6-.22-3.81-.49-6.39-.49-4.3 0-4.93.31-4.93.67 0 .3.31.44 1.65.48ZM48.1 4.97C48.1 2.62 50.06.8 56.32.8c6.26 0 8.17 1.82 8.22 4.17 0 2.45-2.05 4.18-8.22 4.18-6.17 0-8.22-1.73-8.22-4.18Zm2.62.05c0 1.33 1.25 2.22 5.6 2.22s5.6-.89 5.6-2.22-1.25-2.27-5.6-2.27c-4.3 0-5.6.94-5.6 2.27ZM18.05 4.7V1.02h-2.44v7.95h2.44V6.88l3.07-1.33 7.24 3.42h1.77V7.64l-6.61-3.11 6.61-2.84v-.67h-3.28l-8.8 3.69Zm13.53-3.69h8.89c4.7 0 6.53 1.51 6.57 3.87 0 2.57-1.82 4.08-6.8 4.08h-8.66V1.02Zm2.4 6.04h6.53c2.84 0 3.87-.66 3.91-2.13 0-1.33-1.11-2-3.77-2h-6.67v4.13Z" fill="currentColor" />
+</symbol>
+<symbol id="menu" viewBox="0 0 24 24">
+<path d="M0 5a1 1 0 0 1 1-1h22a1 1 0 1 1 0 2H1a1 1 0 0 1-1-1ZM0 12a1 1 0 0 1 1-1h22a1 1 0 1 1 0 2H1a1 1 0 0 1-1-1ZM1 18a1 1 0 1 0 0 2h22a1 1 0 1 0 0-2H1Z" fill="currentColor" />
+</symbol>
+<symbol id="more" viewBox="0 0 24 24">
+<circle cx="4" cy="12" r="2" fill="currentColor" />
+<circle cx="12" cy="12" r="2" fill="currentColor" />
+<circle cx="20" cy="12" r="2" fill="currentColor" />
+</symbol>
+<symbol id="services" viewBox="0 0 24 24">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M1 5.2c0-1.12 0-1.68.22-2.1a2 2 0 0 1 .87-.88C2.52 2 3.08 2 4.2 2h3.6c1.12 0 1.68 0 2.1.22.38.19.69.5.88.87.22.43.22.99.22 2.11V11H4.2c-1.12 0-1.68 0-2.1-.22a2 2 0 0 1-.88-.87C1 9.48 1 8.92 1 7.8V5.2ZM4.2 4h3.6c.6 0 .92 0 1.15.02h.03v.03C9 4.28 9 4.6 9 5.2V9H4.2c-.6 0-.92 0-1.15-.02h-.03v-.03C3 8.72 3 8.4 3 7.8V5.2c0-.6 0-.92.02-1.15v-.03h.03C3.28 4 3.6 4 4.2 4ZM1 16.2c0-1.12 0-1.68.22-2.1a2 2 0 0 1 .87-.88C2.52 13 3.08 13 4.2 13H11v5.8c0 1.12 0 1.68-.22 2.1a2 2 0 0 1-.87.88c-.43.22-.99.22-2.11.22H4.2c-1.12 0-1.68 0-2.1-.22a2 2 0 0 1-.88-.87C1 20.48 1 19.92 1 18.8v-2.6ZM4.2 15H9v3.8c0 .6 0 .92-.02 1.15v.03h-.03C8.72 20 8.4 20 7.8 20H4.2c-.6 0-.92 0-1.15-.02h-.03v-.03C3 19.72 3 19.4 3 18.8v-2.6c0-.6 0-.92.02-1.15v-.03h.03C3.28 15 3.6 15 4.2 15ZM13.22 3.1c-.22.42-.22.98-.22 2.1V11h6.8c1.12 0 1.68 0 2.1-.22a2 2 0 0 0 .88-.87c.22-.43.22-.99.22-2.11V5.2c0-1.12 0-1.68-.22-2.1a2 2 0 0 0-.87-.88C21.48 2 20.92 2 19.8 2h-3.6c-1.12 0-1.68 0-2.1.22a2 2 0 0 0-.88.87Zm6.58.9h-3.6c-.6 0-.92 0-1.15.02h-.03v.03C15 4.28 15 4.6 15 5.2V9h4.8c.6 0 .92 0 1.15-.02h.03v-.03C21 8.72 21 8.4 21 7.8V5.2c0-.6 0-.92-.02-1.15v-.03h-.03C20.72 4 20.4 4 19.8 4ZM13 18.8V13h6.8c1.12 0 1.68 0 2.1.22.38.19.69.5.88.87.22.43.22.99.22 2.11v2.6c0 1.12 0 1.68-.22 2.1a2 2 0 0 1-.87.88c-.43.22-.99.22-2.11.22h-3.6c-1.12 0-1.68 0-2.1-.22a2 2 0 0 1-.88-.87c-.22-.43-.22-.99-.22-2.11Zm2-3.8h4.8c.6 0 .92 0 1.15.02h.03v.03c.02.23.02.56.02 1.15v2.6c0 .6 0 .92-.02 1.15v.03h-.03c-.23.02-.56.02-1.15.02h-3.6c-.6 0-.92 0-1.15-.02h-.03v-.03A16.4 16.4 0 0 1 15 18.8V15Z" fill="currentColor" />
+</symbol>
+<symbol id="telegram" viewBox="0 0 32 32">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M26.872 3.62a2 2 0 0 1 2.68 2.31l-4.701 20.516A2 2 0 0 1 21.58 27.5l-4.922-4.331-3.244 3.243A2 2 0 0 1 10 24.998v-7.32l-5.859-1.171a2 2 0 0 1-.34-3.823l23.07-9.063zM12 19.07v5.928l3.153-3.153L12 19.07zm-7.467-4.524 17.46-6.86-11.224 8.107-6.236-1.247zm18.368 11.453-10.299-9.063 14.83-10.711-4.53 19.774z" fill="currentColor" />
+</symbol>
+<symbol id="tiktok" viewBox="0 0 32 32">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15 3.5a1 1 0 0 1 1-1h5a1 1 0 0 1 1 1 6 6 0 0 0 6 6 1 1 0 0 1 1 1v5a1 1 0 0 1-1 1c-2.1 0-4.15-.5-6-1.46v4.46a9.5 9.5 0 1 1-11.18-9.35 1 1 0 0 1 1.18.99v5.2a1 1 0 0 1-.57.9A2.5 2.5 0 1 0 15 19.5v-16Zm2 1v15a4.5 4.5 0 1 1-7-3.74v-3.33a7.5 7.5 0 1 0 10 7.07v-6.25a1 1 0 0 1 1.58-.81A10.99 10.99 0 0 0 27 14.46v-3.02a8 8 0 0 1-6.94-6.94H17Z" fill="currentColor" />
+</symbol>
+<symbol id="twitter" viewBox="0 0 32 32">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22.837 7.446a4 4 0 0 0-4.94 1.031c-.246.303-.478.79-.647 1.377A6.23 6.23 0 0 0 17 11.5V13a1 1 0 0 1-1.165.986c-3.195-.532-6.205-2.115-8.378-3.521a33.794 33.794 0 0 1-2.205-1.556c-.356 4.245 1.017 7.176 2.533 9.096a12.38 12.38 0 0 0 2.5 2.384c.353.252.648.434.851.55a6.229 6.229 0 0 0 .283.152l.01.005a.999.999 0 0 1 .404 1.459c-1.118 1.676-2.76 2.893-4.068 3.678-.233.14-.458.267-.671.383.64.207 1.577.384 2.907.384a15 15 0 0 0 14.97-14.032 1 1 0 0 1 .29-.642L27.587 10h-2.002a1 1 0 0 1-.917-.6 4.001 4.001 0 0 0-1.83-1.954zM4.65 25.564l.004-.002.026-.01.114-.046a15.89 15.89 0 0 0 1.942-.988c.927-.556 1.953-1.304 2.779-2.231a14.376 14.376 0 0 1-3.3-3.042C4.18 16.665 2.46 12.629 3.517 6.82a1 1 0 0 1 .663-.768c.465-.157.722.028 1.897.961.59.469 1.438 1.105 2.467 1.771 1.788 1.157 4.068 2.369 6.457 2.982V11.5c0-.677.115-1.461.328-2.2.21-.73.539-1.496 1.017-2.084A6.001 6.001 0 0 1 26.198 8h3.803a1 1 0 0 1 .707 1.707l-3.771 3.771A17.001 17.001 0 0 1 10.001 29c-2.126 0-3.534-.399-4.447-.856a3.175 3.175 0 0 1-1.054-.833c-.383-.472-.5-.811-.45-1.118.06-.377.314-.522.6-.63z" fill="currentColor" />
+</symbol>
+</svg>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><foreignObject><script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="6f0830732c2e99fb82053d93-|49" defer></script></foreignObject></body>
+</html>

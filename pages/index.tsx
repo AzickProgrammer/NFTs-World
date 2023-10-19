@@ -1,109 +1,127 @@
-import { ConnectWallet } from "@thirdweb-dev/react";
-import styles from "../styles/Home.module.css";
-import Image from "next/image";
-import { NextPage } from "next";
+import NextLink from 'next/link'
+import {
+  Button,
+  Container,
+  Flex,
+  Heading,
+  Stack,
+  Text,
+  Image,
+  Box,
+} from '@chakra-ui/react'
 
-const Home: NextPage = () => {
+const Home: React.FC = () => {
   return (
-    <main className={styles.main}>
-      <div className={styles.container}>
-        <div className={styles.header}>
-          <h1 className={styles.title}>
-            Welcome to{" "}
-            <span className={styles.gradientText0}>
-              <a
-                href="https://thirdweb.com/"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                thirdweb.
-              </a>
-            </span>
-          </h1>
+    <Container
+      maxW="100%"
+      h="90vh"
+      padding={0}
+      display="flex"
+      alignItems="center"
+      justifyContent="center"
+      position="relative"
+    >
+      <Stack spacing={4} align="center" textAlign="center">
+        <Heading color="green.800" fontWeight="bold">
+          Welcome to our NFTs marketplace!
+        </Heading>
+        <Text
+          m="6"
+          color="green.500"
+          fontSize="lg"
+          fontStyle="italic"
+          fontWeight="bold"
+          p="5"
+          borderRadius="md"
+        >
+          You can buy NFTs and sell your NFT collection
+        </Text>
+        <Button
+          as={NextLink}
+          href="/buy"
+          color="green.800"
+          size="md"
+          height="48px"
+          width="200px"
+          border="2px"
+          borderColor="green.500"
+        >
+          Collect NFTs
+        </Button>
 
-          <p className={styles.description}>
-            Get started by configuring your desired network in{" "}
-            <code className={styles.code}>src/index.js</code>, then modify the{" "}
-            <code className={styles.code}>src/App.js</code> file!
-          </p>
-
-          <div className={styles.connect}>
-            <ConnectWallet
-              dropdownPosition={{
-                side: "bottom",
-                align: "center",
-              }}
-            />
-          </div>
-        </div>
-
-        <div className={styles.grid}>
-          <a
-            href="https://portal.thirdweb.com/"
-            className={styles.card}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+        <Stack direction="row" spacing={4} mt={4}>
+          <Flex direction="column" alignItems="center">
             <Image
-              src="/images/portal-preview.png"
-              alt="Placeholder preview of starter"
-              width={300}
-              height={200}
+              mt={22}
+              boxSize="200px"
+              objectFit="cover"
+              src="/images/meta.jpg"
+              alt="Image 1"
+              rounded="150px"
             />
-            <div className={styles.cardText}>
-              <h2 className={styles.gradientText1}>Portal ➜</h2>
-              <p>
-                Guides, references, and resources that will help you build with
-                thirdweb.
-              </p>
-            </div>
-          </a>
+            <Text
+              borderWidth={2}
+              borderColor="purple.500"
+              p={5}
+              className="my-text"
+              as="kbd"
+              mt={7}
+              color="tomato"
+              fontSize="2xl"
+            >
+              As you can see, you can also trade with Matic currency on MetaMask
+            </Text>
+          </Flex>
 
-          <a
-            href="https://thirdweb.com/dashboard"
-            className={styles.card}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+          <Flex direction="column" alignItems="center">
             <Image
-              src="/images/dashboard-preview.png"
-              alt="Placeholder preview of starter"
-              width={300}
-              height={200}
+              mt={22}
+              boxSize="200px"
+              objectFit="cover"
+              src="/images/metamask2.jpg"
+              alt="Image 2"
+              rounded="150px"
             />
-            <div className={styles.cardText}>
-              <h2 className={styles.gradientText2}>Dashboard ➜</h2>
-              <p>
-                Deploy, configure, and manage your smart contracts from the
-                dashboard.
-              </p>
-            </div>
-          </a>
 
-          <a
-            href="https://thirdweb.com/templates"
-            className={styles.card}
-            target="_blank"
-            rel="noopener noreferrer"
-          >
+            <Text
+              textShadow="1px 1px #ff0022"
+              m="4"
+              as="kbd"
+              mt={47}
+              color="black"
+              fontSize="2xl"
+            >
+              We are working towards enabling the use of all MetaMask coins in
+              the future
+            </Text>
+          </Flex>
+
+          <Flex direction="column" alignItems="center">
             <Image
-              src="/images/templates-preview.png"
-              alt="Placeholder preview of templates"
-              width={300}
-              height={200}
+              mt={22}
+              boxSize="200px"
+              objectFit="cover"
+              src="/images/MATIC.jpg"
+              alt="Image 3"
+              rounded="150px"
             />
-            <div className={styles.cardText}>
-              <h2 className={styles.gradientText3}>Templates ➜</h2>
-              <p>
-                Discover and clone template projects showcasing thirdweb
-                features.
-              </p>
-            </div>
-          </a>
-        </div>
-      </div>
-    </main>
-  );
-};
+            <Text
+              borderWidth={2}
+              borderColor="purple.500"
+              p={5}
+              className="my-text"
+              as="kbd"
+              mt={7}
+              color="tomato"
+              fontSize="2xl"
+            >
+              The TIS coin on MetaMask has the capability to handle transactions
+            </Text>
+          </Flex>
+        </Stack>
+      </Stack>
+    </Container>
+  )
+}
 
-export default Home;
+export default Home

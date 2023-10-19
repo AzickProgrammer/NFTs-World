@@ -1,0 +1,977 @@
+<!doctype html>
+<html lang="de">
+<head>
+	<base href="/">
+	<!-- 1 -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, user-scalable=no">
+	<meta name="facebook-domain-verification" content="mc6yue66zqtht0bor9egnuvy9wtco3" />
+	<title>Was ist ein NFT und welchen Nutzen hat es? - Konsumentenschutz</title>
+<link rel="preload" as="font" href="https://www.konsumentenschutz.ch/wp-content/themes/sks/fontawesome/fonts/fontawesome-webfont.woff2?v=4.5.0" crossorigin>
+<link rel="preload" as="font" href="https://www.konsumentenschutz.ch/wp-content/themes/sks/fonts/lora-v16-latin-700.woff2" crossorigin>
+<link rel="preload" as="font" href="https://www.konsumentenschutz.ch/wp-content/themes/sks/fonts/lora-v16-latin-500.woff2" crossorigin>
+<link rel="preload" as="font" href="https://www.konsumentenschutz.ch/wp-content/themes/sks/fonts/open-sans-v18-latin-regular.woff2" crossorigin>
+<link rel="preload" as="font" href="https://www.konsumentenschutz.ch/wp-content/themes/sks/fonts/open-sans-v18-latin-600.woff2" crossorigin>
+<link rel="preload" as="font" href="https://www.konsumentenschutz.ch/wp-content/themes/sks/fonts/open-sans-v18-latin-700.woff2" crossorigin>
+	<link rel="profile" href="https://gmpg.org/xfn/11" />
+	<link rel="shortcut icon" sizes="192x192" href="https://www.konsumentenschutz.ch/sks/content/themes/sks/favicon-192.png" />
+	<link rel="icon" type="image/png" href="https://www.konsumentenschutz.ch/sks/content/themes/sks/favicon-192.png"/>
+	<link rel="icon" type="image/png" href="https://www.konsumentenschutz.ch/sks/content/themes/sks/favicon-192.png"/>
+	<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/manifest.json">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+	<link rel="pingback" href="https://www.konsumentenschutz.ch/xmlrpc.php" />
+	<meta name="google-site-verification" content="wZSS-Re-7gml44WoJya1EvD7RIdI8eI6MFqAQBL5A14" />
+	<!-- Website by rettenmund.com -->
+	
+			<meta property="og:url" content="https://www.konsumentenschutz.ch/online-ratgeber/was-ist-ein-nft-und-welchen-nutzen-hat-es/" />
+				<meta property="og:image" content="https://www.konsumentenschutz.ch/wp-content/uploads/2023/01/pixabay_NFT_crypto_bored-g3d68d0061_1920.png" />		<meta property="og:description" content="" />
+		
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v21.3 (Yoast SEO v21.3) - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="Sogenannte Non Fungible Token erfreuen sich starker Beliebtheit. Wir erklären in einfachen Worten, was NFT sind und welchen Nutzen sie haben." />
+	<link rel="canonical" href="https://www.konsumentenschutz.ch/online-ratgeber/was-ist-ein-nft-und-welchen-nutzen-hat-es/" />
+	<meta property="og:locale" content="de_DE" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Was ist ein NFT und welchen Nutzen hat es?" />
+	<meta property="og:description" content="Sogenannte Non Fungible Token erfreuen sich starker Beliebtheit. Wir erklären in einfachen Worten, was NFT sind und welchen Nutzen sie haben." />
+	<meta property="og:url" content="https://www.konsumentenschutz.ch/online-ratgeber/was-ist-ein-nft-und-welchen-nutzen-hat-es/" />
+	<meta property="og:site_name" content="Stiftung für Konsumentenschutz" />
+	<meta property="article:publisher" content="https://www.facebook.com/stiftungfuerkonsumentenschutz/" />
+	<meta property="article:modified_time" content="2023-01-24T15:51:58+00:00" />
+	<meta property="og:image" content="https://www.konsumentenschutz.ch/wp-content/uploads/2023/01/pixabay_NFT_crypto_bored-g3d68d0061_1920.png" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="1200" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@konsumschutz" />
+	<meta name="twitter:label1" content="Geschätzte Lesezeit" />
+	<meta name="twitter:data1" content="4 Minuten" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.konsumentenschutz.ch/online-ratgeber/was-ist-ein-nft-und-welchen-nutzen-hat-es/","url":"https://www.konsumentenschutz.ch/online-ratgeber/was-ist-ein-nft-und-welchen-nutzen-hat-es/","name":"Was ist ein NFT und welchen Nutzen hat es? - Konsumentenschutz","isPartOf":{"@id":"https://www.konsumentenschutz.ch/#website"},"primaryImageOfPage":{"@id":"https://www.konsumentenschutz.ch/online-ratgeber/was-ist-ein-nft-und-welchen-nutzen-hat-es/#primaryimage"},"image":{"@id":"https://www.konsumentenschutz.ch/online-ratgeber/was-ist-ein-nft-und-welchen-nutzen-hat-es/#primaryimage"},"thumbnailUrl":"https://www.konsumentenschutz.ch/wp-content/uploads/2023/01/pixabay_NFT_crypto_bored-g3d68d0061_1920.png","datePublished":"2023-01-16T07:35:10+00:00","dateModified":"2023-01-24T15:51:58+00:00","description":"Sogenannte Non Fungible Token erfreuen sich starker Beliebtheit. Wir erklären in einfachen Worten, was NFT sind und welchen Nutzen sie haben.","breadcrumb":{"@id":"https://www.konsumentenschutz.ch/online-ratgeber/was-ist-ein-nft-und-welchen-nutzen-hat-es/#breadcrumb"},"inLanguage":"de-DE","potentialAction":[{"@type":"ReadAction","target":["https://www.konsumentenschutz.ch/online-ratgeber/was-ist-ein-nft-und-welchen-nutzen-hat-es/"]}]},{"@type":"ImageObject","inLanguage":"de-DE","@id":"https://www.konsumentenschutz.ch/online-ratgeber/was-ist-ein-nft-und-welchen-nutzen-hat-es/#primaryimage","url":"https://www.konsumentenschutz.ch/wp-content/uploads/2023/01/pixabay_NFT_crypto_bored-g3d68d0061_1920.png","contentUrl":"https://www.konsumentenschutz.ch/wp-content/uploads/2023/01/pixabay_NFT_crypto_bored-g3d68d0061_1920.png","width":1200,"height":1200,"caption":"Bild eines gelangweilt dreinschauenden Affen Non Fungible Token (NFT), Bored Ape"},{"@type":"BreadcrumbList","@id":"https://www.konsumentenschutz.ch/online-ratgeber/was-ist-ein-nft-und-welchen-nutzen-hat-es/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Startseite","item":"https://www.konsumentenschutz.ch/"},{"@type":"ListItem","position":2,"name":"Was ist ein NFT und welchen Nutzen hat es?"}]},{"@type":"WebSite","@id":"https://www.konsumentenschutz.ch/#website","url":"https://www.konsumentenschutz.ch/","name":"Stiftung für Konsumentenschutz","description":"Konsumentenschutz – engagiert. unabhängig.","publisher":{"@id":"https://www.konsumentenschutz.ch/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.konsumentenschutz.ch/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"de-DE"},{"@type":"Organization","@id":"https://www.konsumentenschutz.ch/#organization","name":"Stiftung für Konsumentenschutz","url":"https://www.konsumentenschutz.ch/","logo":{"@type":"ImageObject","inLanguage":"de-DE","@id":"https://www.konsumentenschutz.ch/#/schema/logo/image/","url":"https://www.konsumentenschutz.ch/wp-content/uploads/2018/08/LOGO_KS_4c.jpg","contentUrl":"https://www.konsumentenschutz.ch/wp-content/uploads/2018/08/LOGO_KS_4c.jpg","width":1501,"height":764,"caption":"Stiftung für Konsumentenschutz"},"image":{"@id":"https://www.konsumentenschutz.ch/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/stiftungfuerkonsumentenschutz/","https://twitter.com/konsumschutz","https://www.instagram.com/konsumentenschutz/","https://www.youtube.com/channel/UCsizLNtgBkl0ZRFykCrJs2A","https://de.wikipedia.org/wiki/Stiftung_fr_Konsumentenschutz","https://ch.linkedin.com/company/konsumentenschutz"]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//app.friendlyanalytics.io' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.konsumentenschutz.ch/wp-includes/css/dist/block-library/style.min.css?ver=0621ff1d1a7a69c31fa9c0bd192756a5' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='mapsmarkerpro-css' href='https://www.konsumentenschutz.ch/wp-content/plugins/maps-marker-pro/css/mapsmarkerpro.css?ver=4.26' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://www.konsumentenschutz.ch/wp-content/tablepress-combined.min.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-responsive-tables-css' href='https://www.konsumentenschutz.ch/wp-content/plugins/tablepress-responsive-tables/css/tablepress-responsive.min.css?ver=1.8' type='text/css' media='all' />
+<style id='imh-6310-head-css-inline-css' type='text/css'>
+.imh-6310-point-icons{display: none}
+</style>
+<script id="friendly-analytics-js-before" type="text/javascript">
+			var friendlyAnalyticsSiteId="39";
+			var friendlyAnalyticsTagManagerId="hMWAH9Fy";
+			var friendlyAnalyticsServer="app.friendlyanalytics.ch";
+</script>
+<script type='text/javascript' src='https://www.konsumentenschutz.ch/wp-content/plugins/friendly-analytics/js/fa.js?ver=1.1.8' id='friendly-analytics-js'></script>
+<script></script><link rel="https://api.w.org/" href="https://www.konsumentenschutz.ch/wp-json/" /><link rel="alternate" type="application/json" href="https://www.konsumentenschutz.ch/wp-json/wp/v2/online-ratgeber/230150" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.konsumentenschutz.ch/xmlrpc.php?rsd" />
+<link rel="alternate" type="application/json+oembed" href="https://www.konsumentenschutz.ch/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.konsumentenschutz.ch%2Fonline-ratgeber%2Fwas-ist-ein-nft-und-welchen-nutzen-hat-es%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.konsumentenschutz.ch/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.konsumentenschutz.ch%2Fonline-ratgeber%2Fwas-ist-ein-nft-und-welchen-nutzen-hat-es%2F&#038;format=xml" />
+<script type="text/javascript">if(!window._buttonizer) { window._buttonizer = {}; };var _buttonizer_page_data = {"language":"de"};window._buttonizer.data = { ..._buttonizer_page_data, ...window._buttonizer.data };</script><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+		<style type="text/css" id="wp-custom-css">
+			#farbkasten {
+background-color: #13768B;
+color: white !important;
+font-size: 1.4em;
+font-family: "Lora", sans-serif;
+padding: 20px 30px 20px 30px;
+margin-top: 25px;
+margin-bottom: 25px;
+}
+
+details {
+box-sizing: content-box;
+font-size-adjust: 0.38 !important;
+background-color: rgba(176, 217, 211, 0.30);
+}
+
+summary {
+font-size-adjust: none !important;
+background-color: rgba(176, 217, 211, 0.35);
+padding: 8px;
+display: list-item;
+}
+
+p.listenlink {
+margin-top: -1em !important;
+margin-bottom: 0em !important;
+line-height: 1em !important;
+}
+
+#embed-privacy-container {
+	color: white !important;
+	font-size: 1.4em;
+	align-content: center;
+}
+
+.whiteTextOverride
+{
+ color: white !important;
+}
+
+#footer .cr_form-inputgroup input { border-bottom: 0px !important; background: #fff !important; height: 43px; }
+
+.embed-privacy-overlay label, .embed-privacy-overlay .embed-privacy-input-wrapper {
+    margin: 0;
+    font-size: 16px !important;
+    font-family: 'Open Sans', Arial, Helvetica !important;
+    margin-left: 5px !important;
+}
+input[type=checkbox], input[type=radio] {
+    box-sizing: border-box;
+    padding: 0;
+    display: inline;
+}
+.embed-privacy-input-wrapper { padding-top: 1em; text-align: left !important; }
+
+.embed-privacy-inner { color: #fff !important; }
+.embed-privacy-label { color: #fff !important; }
+
+.embed-privacy-opt-out {
+	margin-top: -4em;
+	font-size: 0.75em;
+	line-height: 0;
+}
+
+.embed-privacy-opt-out-label {
+    display: inline-block;
+    margin-left: 15px !important;
+    font-weight: 600;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif !important;
+	 font-size: 1.2em  !important;
+	 text-decoration: underline !important;
+	 letter-spacing: 0px !important;
+	 color: #D90915 !important;
+	 cursor: pointer !important;
+}
+input[type=checkbox], input[type=radio] { cursor: pointer !important; }
+
+#articlemain div i { font-style: normal !important; }
+
+.owl-carousel.owl-loaded {
+    display: block;
+    margin-bottom: 7em !important;
+}
+
+.tablepress {
+clear: none !important;
+}
+
+/*
+.onlineratgeberwrapper .owl-item div { padding: 0px !important; }
+.onlineratgeberwrapper .owl-carousel .owl-item {
+    width: auto !important;
+	  width: 100% !important;
+}
+*/		</style>
+		<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	<link href="/wp-content/themes/sks/css/layout.css" rel="stylesheet" type="text/css">
+	<link href="/wp-content/themes/sks/css/ks.css" rel="stylesheet" type="text/css">
+	<link href="/wp-content/themes/sks/css/animate.min.css" rel="stylesheet" type="text/css">
+	<link href="/wp-content/themes/sks/bootstrap4_6/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+	
+	<script src="/wp-content/themes/sks/js/jquery-3.6.1.min.js"></script>
+	<!--<script src="/wp-content/themes/sks/js/jquery-1.12.4.min.js"></script>-->
+		<script src="/wp-content/themes/sks/bootstrap4_6/js/bootstrap.min.js"></script>
+		<link rel="stylesheet" type="text/css" href="/wp-content/themes/sks/fancybox/jquery.fancybox-1.3.4.css" media="screen" />
+	
+	<link rel="stylesheet" href="/wp-content/themes/sks/fontawesome/css/font-awesome.min.css" />
+	<link href="/wp-content/themes/sks/css/fonts.css" rel="stylesheet" type="text/css">
+	<link href="/wp-content/themes/sks/css/responsive.css" rel="stylesheet" type="text/css">
+	<script> var brandName = 'konsumentenschutz'; </script>
+
+<style type="text/css">
+.nr-navigation__link { font-weight: 600 !important;  font-size: 16px !important; }
+#articlemain a.ksbutton { color: #fff !important; }
+#ksproducttext a { color: #D90915 !important; text-decoration: underline !important; }
+#ksproducttext a:hover { text-decoration: none !important; }
+@media (min-width: 768px) { 
+	#logo { left: 30px; }
+	#header { height: 480px; }
+	#headermargin { margin-top: 260px !important; }
+}
+@media (min-width: 768px) {
+	#dossierheader #h1webratgeber { top: 57px !important; }
+	#dossierheader .dossierkurztext { top: 140px !important; }
+	#dossierheader .row { margin-top: 325px !important; }
+}
+@media (min-width: 991px) and (max-width: 1200px) {
+	#header { overflow: visible important; }
+	#dossierheader .dossierkurztext { margin-left: 31px !important; }
+}
+@media (min-width: 768px) and (max-width: 990px) {
+	#header .container-fluid .row { display: block !important; }
+	#dossierheader .dossierkurztext { margin-left: 20px !important; }
+	#dossiernavigation { margin-top: -62px !important; }
+	#header .container-fluid { margin-top: 88px !important; }
+	
+}
+@media (min-width: 768px) {
+	.dataTables_wrapper { clear: none !important; }
+	.dataTables_wrapper .tablepress { clear: none !important; }
+}
+@media (min-width: 990px) {  #footer .copyright li a { margin-left: 10px; }	 }
+</style>
+
+</head>
+
+<body data-rsssl=1>
+
+<div id="iemessage" style="display: none;"><strong>Wichtig</strong>: Sie verwenden einen Browser, welcher von unserer Website nur bedingt unterstützt wird.<br/>Bitte wechseln Sie auf einen aktuellen Browser wie bsp. Safari (nur Mac), Chrome, Firefox / Mozilla, Internet Explorer Edge (nur PC).</div>
+
+<div id="pagewrapper" class="wrapper">
+  <header id="header">
+	<div id="containerh1" class="container" style="max-width: 1440px;">
+		<div id="headerrow" class="row" style="margin-top: 0vh;">
+						
+			<div id="headerbg" style="position: absolute; display: block; left: 0px; top: 6em; margin-left: 0em; width: 100%; height: 100%; background: url('/wp-content/themes/sks/images/bg.svg'); background-size: cover; padding-right: -4em;"></div>
+			
+			<div id="navpanel" style="margin: 0 auto; position: relative; width: 100%;">
+			<div id="mobilemenu" style="position: fixed; width: 100%; z-index: 888888888 !important; display: none;">
+				<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+				  <a class="navbar-brand" href="/"></a>
+
+				  <div class="navbar-collapse" id="main_nav" style="width: 100%; visibility: visible;">
+				    <div id="logo" style="left: 20px !important;top: 17px;max-width: 40px !important;"><a href="/"><img width="297" height="162" class="logoimg" src="/wp-content/themes/sks/images/logo.svg" /></a></div>
+					<ul style="margin-top: 65px;" class="navbar-nav">
+						<li class="nav-item"><a class="nav-link" href="/">Home </a> </li>				  
+					  </li>
+						<li class="nav-item dropdown">
+							<a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Angebot & Beratung  </a>
+							<ul class="dropdown-menu">
+							  <li class="nav-item"><a href="/beratung/">Angebotsübersicht</a></li>
+							  <li class="nav-item"><a href="/beratung/persoenliche-beratung/">Telefonberatung</a></li>							
+							  <li class="nav-item"><a href="/beratung/schreibservice/">Schreibservice</a></li>
+							  <li class="nav-item"><a href="/onlineratgeber/">Online-Ratgeber</a></li>
+							  <li class="nav-item"><a href="/shop/">Ratgeber-Shop</a></li>
+							  <li class="nav-item"><a href="/beratung/portale/">Nützliche Dienstleistungen</a></li>
+							</ul>
+						</li>
+					  <li class="nav-item"><a class="nav-link" href="/onlineratgeber/"> Online-Ratgeber </a></li>
+					  <li class="nav-item"><a class="nav-link" href="/news/"> Aktuell </a></li>
+					  <li class="nav-item"><a class="nav-link" href="/spenden_konsumentenschutz_foerdern/"> Unterstützen </a></li>
+					  <li class="nav-item"><a class="nav-link" href="/medienzentrum_konsumentenschutz_medienmitteilungen/neuste-medienmitteilungen/">Medien</a></li>
+					  <li class="nav-item"><a class="nav-link" href="/shop/">Shop</a></li>
+					  <li class="nav-item"><a class="nav-link" href="/newsletter/">Newsletter</a></li>
+					  <li class="nav-item"><a class="nav-link" href="/ueber_uns_stiftung_konsumentenschutz/">Über uns</a></li>
+					  <li class="nav-item"><a class="nav-link" href="/ueber_uns_stiftung_konsumentenschutz/kontakt/">Kontakt</a></li>
+						<li class="nav-item"><a class="nav-link" href="/suchen/">Suchen </a> </li>				  
+					  </li>
+					</ul>
+				  </div> <!-- navbar-collapse.// -->
+				</nav>
+				
+			</div>
+			<div id="logo" style="left: 0px;"><a href="/"><img width="297" height="162" class="logoimg" src="/wp-content/themes/sks/images/logo.svg" /></a></div>
+				<div id="lupe"><img width="59" height="50" id="lupelink" style="cursor: pointer;" class="lupe" src="/wp-content/themes/sks/images/lupe.svg" /></div>
+				<div id="cart"><a class="cartlink" href="/shop/"><img width="512" height="512" class="cart" src="/wp-content/themes/sks/images/cart.svg" /></a></div>
+				<div id="searchinput"><form id="kssearch" action="/" method="get"><input type="text" id="s" name="s" style="font-weight: bold !important;" value="" /></form></div>
+				<div id="searchline"></div>
+		
+						
+				<nav class="secondary" style="display: none;" id="menu2">
+				  <ul>
+					<li><a class="navlink " href="/medienzentrum_konsumentenschutz_medienmitteilungen/neuste-medienmitteilungen/">Medien</a></li>
+					<li><a class="navlink " href="/shop/">Shop</a></li>
+					<li><a class="navlink "  href="/newsletter/">Newsletter</a></li>
+					<li><a class="navlink " href="/ueber_uns_stiftung_konsumentenschutz/">Über uns</a></li>
+					<li><a class="navlink " href="/ueber_uns_stiftung_konsumentenschutz/kontakt/">Kontakt</a></li>
+				  </ul>
+				</nav>
+				
+				<div id="navtoggle" style="left: auto; outline: none; right: 5em;width: 5em;height: 5em;right: 10px;">
+					<a id="menucontainer" style="outline: none; padding: 10px;width: 5em;display: block; padding-left: 15px !important;" onclick="navMobile()">
+						<div id="bar1" style="color: #D9000D !important;" class="burger"></div>
+						<div id="bar2" style="color: #D9000D !important;" class="burger"></div>
+						<div id="bar3" style="color: #D9000D !important;" class="burger"></div>
+					</a>
+				</div>
+				<nav class="primary" id="menu">
+				  <ul>
+					<li class="hasparents"><a class="navlink" href="/beratung/">Angebot & Beratung</a>
+						<div id="navarrowdiv"><img width="80" height="28" class="navarrow" src="/wp-content/themes/sks/images/navarrow.svg" /></div>
+						<ul class="subnav">
+							<li><a href="/beratung/">Angebotsübersicht</a></li>
+							<li><a href="/beratung/persoenliche-beratung/">Telefonberatung</a></li>
+							<li><a href="/beratung/schreibservice/">Schreibservice</a></li>
+							<li><a href="/onlineratgeber/">Online-Ratgeber</a></li>
+							<li><a href="/shop/">Ratgeber-Shop</a></li>
+							<li><a href="/beratung/portale/">Nützliche Dienstleistungen</a></li>
+						</ul>
+					</li>					
+					<li><a class="navlink " href="/news/">Aktuell</a></li>
+					<li class="hasparents"><a class="navlink " href="/spenden_konsumentenschutz_foerdern/">Unterstützen</a></li>
+				  </ul>
+				</nav>
+			</div>
+			
+			<div id="slider" class="frontslider">
+				<div class="slideitem" style="position: relative; display: block; height: auto; background-size: cover;">
+				<a href="/beratung/">
+					<div id="containerh1" class="container-fluid">
+						<div id="headermargin" class="row" style="margin-top: 32vh;">
+							<h2 style="margin-bottom: 0.5em;" class="frontsliderh2">Wir kümmern uns um Ihr Anliegen.</h2>
+							<p class="frontsubline" style="margin-top: 0.5em;">Ihr Konsumentenschutz. Engagiert. Unabhängig.</p>
+							<div style="margin-top: 0em;" id="beratungButton" class="headerbutton">Beratungsangebot</div>
+						</div>
+					</div>
+				</a>					
+				</div>
+			</div>
+			
+			<div id="webratgeberheader" style="display: none;">
+				<div class="slideitem" style="position: relative; display: block; height: auto; background-size: cover;">
+					<div id="containerh1" class="container-fluid" style="max-width: 1000px">
+						<div id="headermargin" class="row" style="margin-top: 28vh;">
+							<h2 id="h1webratgeber" class="frontsliderh2" style="color: #000 !important; width: 100%; display: block;">Online-Ratgeber</h2>
+							<h3 class="h3ratgeber1">Tag und Nacht – jederzeit.</h3>
+							<h3 class="h3ratgeber2">Finden Sie schnell und unkompliziert Antworten zu Ihren Fragen.</h3>
+							<h3 class="h3ratgeber1b">Rechtsfragen übersichtlich für Sie zusammengefasst.</h3>
+							<h3 class="h3ratgeber2b">Finden Sie schnell und unkompliziert Antworten zu Ihren Rechtsfragen.</h3>
+							
+						</div>
+					</div>
+					
+				</div>
+			</div>		
+
+			<div id="supporterheader" class="frontslider" style="display: none;">
+				<div class="slideitem" style="position: relative; display: block; height: auto; background-size: cover;">
+					<div id="containerh1" style="max-width: 1000px;" class="container-fluid">
+						<div id="headermargin" class="row" style="margin-top: 28vh;">
+							<h2 id="h1webratgeber" class="frontsliderh2" style="color: #000 !important; text-decoration: none !important; width: 100%; display: block !important; margin-bottom: 5px;">Konsumentenschutz unterstützen</h2>
+							<p class="frontsubline" style="margin-top: 0.5em;display: block; width: 100%;">Ich möchte ...</p>
+							<select onchange="supportjumper(this)" style="display: block; max-width: 900px;" name="supportart" id="supportart">
+								<option selected="selected" value="">Bitte auswählen</option>
+								<option  value="goenner">Gönnerin oder Gönner werden</option>
+								<option  value="foerderer">Förderin oder Förderer werden</option>
+								<option  value="spendeonline">Online spenden</option>
+								<option  value="erbschaftlegat">Mehr wissen zum Thema Legat / Testament</option>
+							</select>							
+						</div>
+					</div>
+					
+				</div>
+			</div>
+
+									
+		</div>
+	</div>
+  </header>
+<!--<div id="themenfinder" style="outline: none !important;" class="nr-navigation__item nr-navigation__list-title nr-navigation__list-title--back">Fragen zu Konsum oder Recht? Hier finden Sie über 400 Antworten <i class="fa fa-chevron-down themenfinder-downarrow" aria-hidden="true"></i></div>-->
+<a href="/onlineratgeber/" id="themenfinder" style="display: block; width: 100%; text-decoration: none; outline: none !important;" class="nr-navigation__item nr-navigation__list-title nr-navigation__list-title--back">Fragen zu Konsum oder Recht? Hier finden Sie über 400 Antworten</a>
+<style type="text/css">
+#articlemain h2 { 
+    font-family: 'Lora', sans-serif;
+    font-size: 1.5em;
+    margin-bottom: 0.1em;
+    margin-top: 1.1em;
+    font-weight: bold;
+    color: #000 !important;
+}
+#articlemain h3 { 
+    font-family: 'Lora', sans-serif;
+    font-size: 1.5em !important;
+    margin-bottom: 0.1em !important;
+    margin-top: 1.1em !important;
+    font-weight: bold !important;
+    color: #000 !important;
+}
+#articlemain h4 { 
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5em !important;
+    margin-bottom: 0.1em !important;
+    margin-top: 1.1em !important;
+    font-weight: bold !important;
+	color: #222 !important;    
+}
+#articlemain h5 { 
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5em !important;
+    margin-bottom: 0.1em !important;
+    margin-top: 1.1em !important;
+    font-weight: bold !important;
+	color: #244C54 !important;
+}
+#articlemain ul li {
+    font-family: 'Lora', sans-serif;
+    font-size: 1.4em !important;
+    color: #000 !important;
+}
+#articlemain strong { font-weight: bold !important; }
+#articlemain ul li a { color: #D9000D !important; text-decoration: underline; }
+#articlemain ul li a:hover { text-decoration: none; }
+#articlemain i { font-style: italic; }
+#articlemain img { margin-bottom: 1em; margin-top: 1em; }
+#articlemain { max-width: 900px !important; }
+#articlemain iframe { max-width: 100% !important; max-height: 480px; margin-bottom: 1em; margin-top: 1em; }
+#articletags a { border-radius: 4px !important; } 
+#articletags a:hover { background: #222 !important; color: #fff !important; }
+.articlemeta .date { width: 100%; }
+#articlemain a { color: #D90915 !important; text-decoration: underline; }
+#articlemain a:hover { text-decoration: none; }
+#articlemain iframe { width: 100% !important; }
+#articlemain a.button { background: #D90915 !important; color: #fff !important; font-family: 'Open Sans', sans-serif !important; font-size: 22.4px !important; text-decoration: none !important; padding-left: 25px !important; padding-right: 25px !important; padding-top: 12px !important; padding-bottom: 12px !important; cursor: pointer; }
+#articlemain a.button:hover { opacity: 0.5 !important; }
+.articleleadimg { max-width: 100%; width: 100%; }
+#article h1 { max-width: 992px; }
+#articlemain img:first-child { display: block; }
+#articles .tlcontent h2.articletitle { margin-top: 0px !important; }
+#articles .tlcontent h2.articletitle a { color: #000 !important; }
+#articles .tlcontent h2.articletitle a:hover { color: #D90915 !important; text-decoration: none !important; }
+.h2weitere { color: #000 !important; text-decoration: none !important; font-weight: bold !important; font-family: 'Lora', sans-serif; }
+.h2weitere:hover { color: #D90915 !important; text-decoration: none !important; border: 0px !important; }
+.articletag:hover { text-decoration: none !important; }
+main img { max-width: 100% !important; }
+@media (max-width: 727px) {
+	#article h1 { font-size: 2.5em !important; }
+	#designedby { position: relative; display: block; margin-top: 50px; width: 100%; margin-left: 15px; }
+}
+.button {
+    background-color: #D90915 !important;
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+    padding-top: 15px !important;
+    padding-bottom: 15px !important;
+    color: #fff !important;
+    display: inline-block !important;
+}
+.button:hover { opacity: 0.5 !important; }
+@media (max-width: 990px) {
+	#header .container-fluid .row { display: none; }
+	#header { height: 166px !important; margin-bottom: -1.5em !important; }
+}
+.nr-navigation__item:active { background: transparent !important; outline: none !important; }
+.nr-navigation__link { background: transparent !important; outline: none !important; }
+#themenfinder { outline: none !important; }
+</style><style type="text/css">
+	.stickyheader {  margin-top: -109px !important; }
+	#articlemain ol li {
+		margin-bottom: 20px !important;
+	}
+
+	#articlemain ul li {
+		margin-bottom: 20px !important;
+	}
+	a { color: #000; }
+	#noticecontent { color: #000 !important; font-size: 18px !important; }
+	#noticecontent p { color: #000 !important; font-size: 18px !important; }
+	#noticecontent p strong { color: #000 !important; font-size: 18px !important; font-weight: 600 !important; }
+	#noticecontent p strong a { color: #000 !important; font-size: 18px !important; font-weight: 600 !important; }
+	#noticecontent a { color: #000 !important; text-decoration: underline !important; }
+	#noticecontent a:hover { text-decoration: none !important; }
+	#slider { display: none !important; }
+	#webratgeberheader { display: block !important; }
+	.webratgeberUL li a { font-size: 22px !important; }
+	.webratgeberUL .ratgebersublevel2 li { border-bottom: 1px solid #aaa }
+	.webratgeberUL .ratgebersub { padding-bottom: 0px; padding-top: 0px; }
+	.webratgeberUL .ratgebersub li:last-child { border-bottom: 0px solid #aaa; margin-bottom: -5px; }
+	.webratgeberUL .ratgebersublevel2 { margin-top: 5px; }
+	.webratgeberUL .ratgebersublevel2 li { border-bottom: 1px solid #aaa }
+	.webratgeberUL .ratgebersublevel2 li:last-child { border-bottom: 0px solid #aaa; margin-bottom: -5px; }
+	#tree { display: block !important; }
+	#article h1 { font-size: 50px !important; }
+	.topline { margin-top: 6px !important; }
+	@media (max-width: 990px) {
+		#article h1 { font-size: 35px !important; }
+	}
+.plusitem { position: absolute; bottom: 0px; right: 0px; width: 25%; text-align: right; }
+#articlemain { margin-bottom: 0em; }
+@media (max-width: 990px) {
+	.plusitem { display: none !important; }
+}
+#articlelead strong { font-weight: bold !important; }
+@media (min-width: 768px) {
+	.tlcontainer { padding: 10px 40px !important; }
+	.timeline { margin-left: -40px !important; }
+	#slider { display: none !important; }
+	header { height: 200px !important; }
+	header { overflow: visible !important; }
+	#themenfinder { padding: 14px !important; font-size: 22px !important; z-index: 88; position: absolute; }
+	.nr-navigation--presence .nr-navigation-component { display: block; margin-top: 66px !important; }
+	.primary { max-width: 600px; }
+	.slideitem { display: none !important; }
+	#headerbg { height: 116px !important; }
+	.breadcrumb { padding-left: 0px !important; }
+	#articlelead { padding-left: 0px !important; }
+	#articlemain { padding-left: 0px !important; }
+	#articletags { padding-left: auto !important; }
+	#articlemain a.button { max-width: 100% !important; }
+	main { padding-bottom: 1.2em !important; }
+}
+@media (max-width: 767px) {
+	#articletagsrow { padding-bottom: 0px !important; }
+	#continuepanel { display: none !important; }
+	#ctapaneldiv { margin-left: -25px !important; }
+	.c2abutton { display: block !important; }
+	#articlerowvh { height: 30px !important; }
+	#articlemain a.button { display: block !important; }
+	#matchingarticlesrow { padding-top: 3em !important; }
+}
+
+@media (min-width: 1200px) {
+	#right_widgetbox { display: block !important; float: right; width: 250px; background: #C6E5E0; padding: 25px; font-size: 14px !important;  font-family: 'Open Sans', Arial, sans-serif !important; margin-bottom: 3em; }
+	#right_widgetbox h2 { font-size: 15px !important; font-weight: bold !important; color: #000 !important; font-family: 'Open Sans', Arial, sans-serif !important; line-height: 22px !important; }
+	#right_widgetbox label { font-size: 14px !important; font-weight: 600 !important; color: #000 !important; font-family: 'Open Sans', Arial, sans-serif !important; }
+	#right_widgetbox input { font-size: 14px !important; font-weight: 600 !important; color: #000 !important; font-family: 'Open Sans', Arial, sans-serif !important; background: #F1FBF9 !important; border: 0px !important; }
+	#articlemain { max-width: 100% !important; }
+	#right_widgetbox #newsletter label { margin-bottom: 0px !important; }
+	#right_wrapper { display: block !important; float: right; width: 250px; }
+}
+#tippsBox { background: #C6E5E0; padding: 25px; margin-top: 3em; margin-bottom: 3em; }
+#tippsBox dl, #tippsBox ol, #tippsBox ul { padding-left: 25px; }
+#articlemain #tippsBox li { padding-bottom: 15px !important; }
+#tippsBox p { font-family: 'Open Sans', Arial, sans-serif !important; font-size: 18px !important; }
+#tippsBox h2 { margin-top: 0px !important; margin-bottom: 15px; font-family: 'Open Sans', Arial, sans-serif !important; font-size: 24px !important; }
+#tippsBox h3 { font-family: 'Open Sans', Arial, sans-serif !important; font-size: 18px !important; }
+#tippsBox h4 { font-family: 'Open Sans', Arial, sans-serif !important; font-size: 18px !important; }
+#tippsBox li { font-family: 'Open Sans', Arial, sans-serif !important; font-size: 18px !important; }
+#articlemain #tippsBox li { font-family: 'Open Sans', Arial, sans-serif !important; font-size: 18px !important; }
+#tippsBox { max-width: 850px }
+@media (max-width: 767px) {
+	#tippsBox dl, #tippsBox ol, #tippsBox ul { padding: 0px;  padding-left: 20px; }
+	.col-5 { -ms-flex: 0 0 100% !important; flex: 0 0 100% !important; max-width: 100% !important; }
+}
+nextra-box { height: auto !important; }
+.angebotcta:hover { text-decoration: none !important; }
+.breadcrumb { padding-top: 2em !important; }
+#articlemain ul p { font-family: 'Lora', sans-serif !important; }
+#articlemain ul li { font-family: 'Lora', sans-serif !important; }
+#articlemain ol li { font-family: 'Lora', sans-serif !important; }
+#articlemain ol { font-family: 'Lora', sans-serif !important; }
+</style>
+
+
+
+
+<main>  
+
+
+
+	<div id="article" class="container-fluid">
+	<div class="row" style="padding-top: 2em">
+		<div style="margin-top: 25px !important;" class="breadcrumb"><a class="breaditem" href="/">Home</a> <span class="breadseperator">/</span> <a class="breaditem" href="/onlineratgeber/">Online-Ratgeber</a> <span class="breadseperator">/</span> <a href="https://www.konsumentenschutz.ch/online-ratgeber/was-ist-ein-nft-und-welchen-nutzen-hat-es/">Was ist ein NFT und welchen Nutzen hat es?</a></div>
+	</div>
+	<div class="row" style="padding-top: 1em;">
+		<div id="frontcol1" class="col-12">
+
+		
+						<div style="font-weight: bold !important; font-size: 28px;">Online-Ratgeber</div>
+			<h1 style="margin-bottom: 0px !important; margin-top: 10px;">Was ist ein NFT und welchen Nutzen hat es?</h1>
+						
+			<img width="1200" height="1200" class="articleleadimg" src="https://www.konsumentenschutz.ch/wp-content/uploads/2023/01/pixabay_NFT_crypto_bored-g3d68d0061_1920.png" />			<div class="articlemeta" style="margin-top: 0px;">
+												<div class="plusitem">Online-Ratgeber</a></div>							
+								<div style="margin-bottom: 0px; font-size: 18px;" class="date"><div class="date">Zuletzt aktualisiert: 24.01.2023</a></div></a></div>
+												
+			</div>
+						<div class="topline"></div>
+			
+
+	<div id="articletags" class="container-fluid">
+		<div id="articletagsrow" class="row" style="padding-top: 0em !important; padding-bottom: 0em; ">
+			<div id="horizontalnav" style="margin-top: 1em !important;">
+								<a class="navitem" style="font-family: 'Open Sans', sans-serif !important;" href="/tag/internet-telekommunikation/">#Internet und Telekommunikation</a>
+							</div>
+		</div>
+	</div>
+
+			
+		</div>
+		
+		
+				
+		
+				<div id="articlelead" class="col-12">
+			<p>Die sogenannten Non Fungible Tokens, kurz NFT, sind in aller Munde. Blockchain-Fans sehen darin die Möglichkeit, digitale Inhalte einzigartig zu machen und ihnen damit einen monetären Wert zu verschaffen. Kritiker verweisen zurecht auf fehlende Sicherheiten und ungeklärte Rechtsfragen.</p>
+		
+		</div>
+				
+				
+				<div id="articlemain" style="max-width: 100%;" class="col-12 onlineratgeberfull">
+			
+				
+		<div id="right_wrapper">
+			<div id="right_widgetbox" style="margin-top: 0px !important; display: none;">
+				<h2 style="margin-top: 0px !important; margin-bottom: 25px !important;">Fördern Sie aktiv einen starken Schweizer Konsumentenschutz!</h2>
+				<form action="https://www.konsumentenschutz.ch/spenden_konsumentenschutz_foerdern/?support=spendeonline" method="post"><button class="button" type="submit" name="subscribe" style="margin-top: 10px; border: 0px !important; font-size: 20px !important; background: #7FB4AB !important; font-weight: 600 !important; font-family: 'Open Sans', sans-serif, Arial !important; display: block !important; width: 100% !important; font-size: 15px !important; padding-top: 10px !important; padding-bottom: 10px !important;" class="button">Online spenden</button></form>
+				<form action="https://www.konsumentenschutz.ch/spenden_konsumentenschutz_foerdern/?support=goenner" method="post"><button class="button" type="submit" name="subscribe" style="margin-top: 10px; border: 0px !important; font-size: 20px !important; background: #7FB4AB !important; font-weight: 600 !important; font-family: 'Open Sans', sans-serif, Arial !important; display: block !important; width: 100% !important; font-size: 15px !important; padding-top: 10px !important; padding-bottom: 10px !important;" class="button">Gönner/in werden</button></form>
+				<form action="https://www.konsumentenschutz.ch/spenden_konsumentenschutz_foerdern/?support=foerderer" method="post"><button class="button" type="submit" name="subscribe" style="margin-top: 10px; border: 0px !important; font-size: 20px !important; background: #7FB4AB !important; font-weight: 600 !important; font-family: 'Open Sans', sans-serif, Arial !important; display: block !important; width: 100% !important; font-size: 15px !important; padding-top: 10px !important; padding-bottom: 10px !important;" class="button">Förderer/in werden</button></form>
+			</div>
+			
+				<div id="right_widgetbox" style="margin-top: 0px; display: none;">
+					<form id="newsletterform" class="layout_form cr_form cr_font" action="https://seu2.cleverreach.com/f/301449-302669/wcs/" method="post" target="_blank">
+						<div id="newsletter">
+							<h2 style="margin-top: 0px !important; padding-top: 0px !important;">Infos und Tipps frei Haus. Ich abonniere den monatlichen Newsletter.</h2>
+														
+								<p style="margin-top: 10px;">
+									<label for="monthly-EMAIL">Ihre E-Mail Adresse *</label>
+									<input class="cr_form-input" type="email" id="text6700360" name="email" value="" placeholder="name@example.com" style="margin-bottom: 5px; width:100%;">
+
+									<label for="monthly-FNAME">Ihr Vorname</label>
+									<input id="cr_form-input--text6809158" class="cr_form-input" type="text" name="1114389" placeholder="Vorname" style="margin-bottom: 5px; width:100%;">
+
+									<label for="monthly-LNAME">Ihr Nachname</label>
+									<input id="cr_form-input--text6809164" class="cr_form-input" type="text" name="1114390" placeholder="Nachname" style="margin-bottom: 5px; width:100%;">
+								</p>					
+								<button class="button" type="submit" name="subscribe" style="margin-top: 10px; border: 0px !important; font-size: 20px !important; background: #7FB4AB !important; font-weight: 600 !important; font-family: 'Open Sans', sans-serif, Arial !important; display: block !important; width: 100% !important; font-size: 15px !important; padding-top: 10px !important; padding-bottom: 10px !important;" class="button">Abonnieren</button>
+								<div style="margin-top: 25px; display: block;"><a style="color: #000 !important; font-size: 12px !important;" class="readmorelink" href="https://www.konsumentenschutz.ch/datenschutz/" target="_blank" class="privacypage-link">Datenschutzerkl&auml;rung</a></div>
+						</div>
+						</form>
+			</div>
+		</div>
+				
+			<div class="onlineratgeberwrapper" style="max-width: 860px;">
+								<p>NFT ist die Kurzform von &#8222;Non Fungible Token&#8220;, was auf Englisch soviel wie &#8222;nicht austauschbare Wertmarke&#8220; bedeutet. Damit soll jeder dieser Token einzigartig sein, weshalb er immer nur einer Person gehören kann. Die Eigentumsverhältnisse dieser Token bzw. Wertmarken werden in einer Blockchain festgehalten. Der versprochene Nutzen eines NFT liegt also im beweisbaren und einmaligen Eigentum an einem digitalen Inhalt.</p>
+<h2>Was ist ein Non Fungible Token (nicht)?</h2>
+<p>In den Medien wird oft der Eindruck erweckt, dass ein NFT das Eigentum an einer – meist digitalen – Sache (z.B. Bild-, Audio- oder Videomaterial) selbst darstellt. <a href="https://www.rightclicksave.com/article/how-many-nfts-are-actually-on-the-blockchain">In den meisten Fällen</a> ist dieser Inhalt selbst aber gar nicht auf der Blockchain abgespeichert. Denn das Abspeichern eines Inhalts auf der Blockchain ist unheimlich teuer. Zum Beispiel kostet ein Gigabyte Speicherplatz auf der Ethereum Blockchain <a href="https://www.gemini.com/cryptopedia/what-is-a-non-fungible-token-nft-crypto#section-the-intricacies-of-hosting-nf-ts-explained">gemäss Schätzungen</a> rund 20 Millionen Franken.</p>
+<p>Deshalb wird in der Blockchain lediglich auf den Inhalt verwiesen. Der Grossteil der NFT-Inhalte ist also nur als Link in der Blockchain hinterlegt. Wenn jemand den verlinkten Inhalt also löscht oder verändert, bleibt der Verweis in der Blockchain gleich – er führt dann einfach auf einen anderen Inhalt oder gar ins Leere.</p>
+<p><strong>Weniger technisch ausgedrückt bedeutet das</strong>: Viele NFTs sind lediglich auf der Blockchain gespeicherte Kaufbelege. Diese belegen, dass der am Ort X auffindbare Inhalt dem Wallet Y gehört. Wenn der Inhalt verschwindet oder der Ort nicht mehr zugänglich ist, verlinkt die Blockchain ins Nichts und das Non Fungible Token ist somit wertlos geworden. Wie viele NFTs schon verloren gingen, ist unbekannt. Sicher ist aber, dass es passiert: So ist beispielsweise ein als NFT <a href="https://web.archive.org/web/20220729015445/https://twitter.com/CheckMyNFT/status/1371960028765245440">für insgesamt 11 Millionen US Dollar verkauftes Musikalbum von 3LAU</a> einfach verschwunden. Ganz ohne <a href="https://www.20min.ch/story/alle-meine-affen-sind-weg-diebe-stehlen-millionenteure-nft-sammlung-174660710587">Diebstahl durch Cyberkriminelle</a>.</p>
+<h2>Ist es ein Werk? Und wer hat die Rechte?</h2>
+<p>Zwar bieten einzelne NFT den Besitzerinnen Vorteile, wie z.B. exklusive Mitgliedschaften, Zugang zu Events oder physischen Produkten. Doch der effektive Mehrwert der meisten NFTs ist gleich null. Es ist noch nicht einmal geklärt, ob und inwieweit die Rechte am Inhalt tatsächlich auf die Käufer übergehen.</p>
+<p>Zudem streiten sich die Juristinnen und Juristen darüber, ob digitale Inhalte, die von einer künstlichen Intelligenz (KI) erstellt wurden, überhaupt als <a href="https://www.konsumentenschutz.ch/online-ratgeber/was-bedeutet-lichtbildschutz/">Werke im Sinne des Urheberrechts</a> gelten dürfen. Denn im Urheberrecht wird geistiges Eigentum als menschliche Schöpfung gehandelt. In den USA hat sich das Copyright Office deshalb <a href="https://www.copyright.gov/rulings-filings/review-board/docs/a-recent-entrance-to-paradise.pdf">gegen den Schutz von KI-generierten Inhalten</a> entschieden. Bei KI-generierten NFTs handelt es sich somit um urheberrechtlich nicht geschützte Werke, die von Dritten nahezu beliebig verwendet werden können.</p>
+<h2>Was nützt Ihnen ein NFT tatsächlich?</h2>
+<p>Nur wenige NFT-Projekte sind vollständig auf der Blockchain gespeichert und damit wirklich permanent, unabänderlich und dezentral. Die anderen Non Fungible Token können, wie oben beschrieben, verloren gehen. Auch als Investitition eignen sich NFT nur bedingt. Ähnlich wie bei <a href="https://www.konsumentenschutz.ch/online-ratgeber/was-muss-ich-bei-kryptowaehrungen-beachten/">Kryptowährungen</a>, ist völlig unvorhersehbar, welche NFT-Projekte an Wert gewinnen werden. Aufgrund der stetig wachsenden Menge ist es aber sehr wahrscheinlich, dass der Marktwert vieler NFTs abstürzen wird. Kein Wunder also, dass der Hype immer wieder <a href="https://www.zeit.de/2022/05/nft-digitale-bilder-kunst-kryptowaehrung">mit einem Schneeballsystem verglichen</a> wird.</p>
+<p><strong>Unser Rat an Sie:</strong> Falls Sie sich für den Erwerb eines NFT entschliessen &#8211; etwa eines der bekannten <a href="https://www.tagblatt.ch/leben/nft-hype-warum-promis-ueber-eine-million-dollar-fuer-ein-digitales-affenbildchen-zahlen-ld.2253094">Affenbilder</a> &#8211; sollten Sie sich bewusst sein, dass Sie damit nicht das Werk selbst, sondern nur dessen Kaufbeleg kaufen. Investieren Sie nur soviel in NFTs, wie Sie zu verlieren bereit sind. Denn wie bei den Kryptowährungen sind die Schwankungen in den Marktwerten enorm – selbst bei den beliebtesten Werken.</p>
+					
+								
+				</div>					
+			
+<div style="max-width: 850px">
+						<div class="topline" style="margin-top: 5em !important; display: block;"></div>
+			<h2 style="margin-bottom: 15px;">Unsere Ratgeber zum Thema Internet und Datenschutz:</h2>
+						
+			<script type="text/javascript" src="https://nextra-solutions.com/box/box.min.js"></script>
+			<nextra-box tenant="REST-SKS" tenant-password="REST-SKS*123" box="articlesList" website="WEBSITE-SKS" language="DE" article-key="225-0001,225-0002,225-0003"></nextra-box>
+			
+						
+						<div class="topline" style="margin-top: 5em !important; display: block;"></div>
+			<p style="margin-top: 1em !important;">Ben&ouml;tigen Sie weitere Informationen? Vereinbaren Sie einen Beratungstermin:</p>
+			<div id="ctapaneldiv" class="ctapanel">
+				<a style="margin-top: 0em; cursor: pointer; color: #fff !important; text-decoration: none !important; font-weight: normal !important;" href="/beratung/persoenliche-beratung" class="c2abutton">Beratungstermin vereinbaren</a>
+			</div>
+						
+			<div class="topline" style="margin-top: 1em !important; display: block;"></div>
+			<div id="continuepanel" style="margin-top: 8em;">
+			<a style="font-size: 1.6em; border-bottom: 0px solid #D9000D; display: block; width: 100%; font-weight: bold !important; color: #000;text-decoration: none; font-family: 'Open Sans', 'Lora', sans-serif !important; color: #000 !important;" class="ratgeberitem" href="/onlineratgeber/"><span style="font-size: 20px !important; color: #000 !important;" class="fa fa-chevron-left webratgeber-arrow" aria-hidden="true"></span> Zur &Uuml;bersicht Online Ratgeber</a>
+			</div>
+</div>
+
+			
+		</div>
+		
+
+		
+	</div>	
+
+
+
+
+
+	</div>
+	</div>
+
+	</div><!-- /page wrapper -->
+  
+</main>
+  
+  <section id="articlebottom" style="overflow: hidden; background: url('/wp-content/themes/sks/images/articlebottom.svg'); background-size: cover; ">
+	<div id="containerh1" class="container">
+		<div class="row" id="articlerowvh" style="margin-top: 0vh; height: 22vh">						
+			<div id="headerbg" style="position: absolute; display: block; left: 0px; top: 4em; margin-left: 0em; width: 100%;"></div>
+		</div>
+
+<div class="row" id="passendeartikelrow" style="padding-top: 3em;">
+			<div class="col-2">
+				<h2 style="border-bottom: 4px solid #D90915; color: #D90915 !important; font-weight: bold; font-size: 1.9em; padding-bottom: 0.2em;">Passend zum Thema</h2><p></p>
+			</div>
+ 		<div class="col-5">
+			<a style="text-decoration: none !important; " href="https://www.konsumentenschutz.ch/online-ratgeber/qr-scanner-apps-abo-falle/"><div class="relatedImage" style="background: url('https://www.konsumentenschutz.ch/wp-content/uploads/2023/09/unsplash_qr_code_scannen-scaled-e1695037706379.jpg') #fff; background-size: cover;"></div>
+			<h2 class="h2weitere" style="margin-top: 10px; font-size: 26px; border: 0px !important; color: #000;">Kostenlose QR-Scanner-Apps: Vorsicht Abofalle!</h2></a>
+		</div>
+    		<div class="col-5">
+			<a style="text-decoration: none !important; " href="https://www.konsumentenschutz.ch/online-ratgeber/was-gilt-bei-werbeversprechen-wie-lebenslanger-preis-oder-rabatt/"><div class="relatedImage" style="background: url('https://www.konsumentenschutz.ch/wp-content/uploads/2023/06/vitolda-klein-L8oEIAZ59_g-unsplash-2-scaled.jpg') #fff; background-size: cover;"></div>
+			<h2 class="h2weitere" style="margin-top: 10px; font-size: 26px; border: 0px !important; color: #000;">Was gilt bei Werbeversprechen wie «lebenslanger» Preis oder Rabatt?</h2></a>
+		</div>
+    	</div>
+
+		<div id="matchingarticlesrow" class="row" style="padding-top: 5em; padding-bottom: 7em;">
+			<div class="col-2">
+				<h2 style="border-bottom: 4px solid #D90915; color: #D90915 !important; font-weight: bold; font-size: 1.9em; padding-bottom: 0.2em;">Neueste Artikel</h2><p></p>
+				
+			</div>
+											<div class="col-5">
+									<a style="text-decoration: none !important; " href="https://www.konsumentenschutz.ch/medienmitteilungen/krankenkassenvergleichsportal-der-visana-wird-auf-druck-von-konsumentenschutz-eingestellt/"><div class="relatedImage" style="background: url('https://www.konsumentenschutz.ch/wp-content/uploads/2023/10/krankenkassenadmin_priminfo.png') #fff; background-size: cover;"></div>
+									<h2 class="h2weitere" style="margin-top: 10px; font-size: 26px; border: 0px !important; color: #000;">Visana nimmt erst unter Druck unlauteres Prämienvergleichsportal vom Netz</h2></a>
+								</div>
+														<div class="col-5">
+									<a style="text-decoration: none !important; " href="https://www.konsumentenschutz.ch/allgemein/2023/09/tuer-und-tor-offen-fuer-laestige-werbeanrufe/"><div class="relatedImage" style="background: url('https://www.konsumentenschutz.ch/wp-content/uploads/2023/09/Telefon-Werbeanruf-Telekommunikation-klein.jpg') #fff; background-size: cover;"></div>
+									<h2 class="h2weitere" style="margin-top: 10px; font-size: 26px; border: 0px !important; color: #000;">Tür und Tor wieder offen für lästige Werbeanrufe</h2></a>
+								</div>
+											</div>
+					
+	</div>
+   </section>
+   
+
+<style type="text/css">
+.bg-primary { background-color: #fff !important; }
+.navbar-dark .navbar-nav .nav-link { color: #000 !important; }
+@media (max-width: 990px) {
+	#tfpanel { display: none !important; }
+	header { height: 200px !important; }
+	#header { height: 200px !important; }
+	header { overflow: hidden !important; }
+	#header { overflow: hidden !important; }
+}
+</style>
+
+
+
+<style type="text/css">
+@media (max-width: 990px) {
+	main { margin-top: -5em !important; }
+}
+#articlemain ol li {
+    font-family: 'Lora', sans-serif !important;
+}
+
+#articlemain ul li {
+    font-family: 'Lora', sans-serif !important;
+}
+</style>
+
+
+<footer id="footer">
+    <div id="containerfooter" class="container-fluid">
+		<button onclick="topFunction()" id="scroll2top" title="Nach oben"><i class="fa fa-chevron-up" aria-hidden="true"></i></button>
+      <div class="row">
+        <div class="col-12">
+          <div class="row">
+            <div id="footercol1" class="col-sm">
+                <nav>
+                  <ul id="menu-menu-links-footer" class="footer-nav left">
+						<li id="menu-item-131" class=""><a href="/">Home</a></li>
+						<li id="menu-item-131" class=""><a href="/beratung/">Angebot & Beratung</a></li>
+						<li id="menu-item-131" class=""><a href="/beratung/persoenliche-beratung/">Telefonische Beratung</a></li>
+						<li id="menu-item-131" class=""><a href="/news/">Aktuell</a></li>
+						<li id="menu-item-131" class=""><a href="/dossiers/">Dossiers</a></li>
+						<li id="menu-item-131" class=""><a href="/onlineratgeber/">Online-Ratgeber</a></li>
+						<!--<li id="menu-item-131" class=""><a href="/shop/">Ratgeber-Bücher</a></li>-->
+						<li id="menu-item-131" class=""><a href="/beratung/portale/">Projekte / Portale</a></li>
+						
+						<!--<li id="menu-item-131" class=""><a href="/dossiers/">Dossiers</a></li>-->
+						<li id="menu-item-131" class=""><a href="/spenden_konsumentenschutz_foerdern/">Unterstützen / Spenden</a></li>
+					</ul>
+				</nav>
+
+            </div>
+            <div id="footercol2" class="col-sm">
+					<div id="addressBlock" style="padding-bottom: 0.7em;" class="textwidget"><strong>&Ouml;ffnungszeiten Gesch&auml;ftsstelle</strong><br/>
+						<p>Montag – Freitag:<br>08.00 – 12.00 /<br>13:00 - 17:00 Uhr</p>
+					</div>
+			
+				<div class="footerNewsletter">
+				
+				<p style="margin-bottom: 5px;">Newsletter abonnieren</p>
+
+<form class="layout_form cr_form cr_font" action="https://seu2.cleverreach.com/f/301449-302669/wcs/" method="post" target="_blank">
+
+<div id="newsletterhidden" style="display: none;">
+	<div id="6809158" rel="text" class="cr_form-component cr_form-component--text cr_ipe_item ui-sortable" style=" margin-bottom:0px;">
+		<div class="cr_form-inputgroup cr_form-inputgroup--typetext">
+				<label style="font-size: 15px !important;" for="cr_form-input--text6809158" class="itemname">Vorname</label>
+				<input id="cr_form-input--text6809158" class="cr_form-input" type="text" name="1114389" placeholder="" style="width:100%;">
+		</div>
+	</div>
+
+	<div id="6809164" rel="text" class="cr_form-component cr_form-component--text cr_ipe_item ui-sortable" style=" margin-bottom:0px;">
+		<div class="cr_form-inputgroup cr_form-inputgroup--typetext">
+			<label style="font-size: 15px !important;" for="cr_form-input--text6809164" class="itemname">Name</label>
+			<input id="cr_form-input--text6809164" class="cr_form-input" type="text" name="1114390" placeholder="" style="width:100%;">
+		</div>
+	</div>
+</div>
+
+<div id="6700360" rel="email" class="cr_form-component cr_form-component--email cr_ipe_item ui-sortable musthave" style="margin-bottom:px;">
+    <div class="cr_form-inputgroup cr_form-inputgroup--typeemail">
+        <label style="display: none; font-size: 15px !important;" for="text6700360">E-Mail*</label>
+        <input class="cr_form-input" type="email" id="text6700360" name="email" value="" placeholder="ihre@emailadresse.ch" style="padding: 7px; width: auto; min-width: 230px; display: inline-block">
+		<button type="submit" style="background: #6eabb8; border: 0px; font-size: 18px !important; padding-left: 15px; padding-right: 15px; padding-top: 6px; padding-bottom: 8px; margin-top: 6px; color: #fff !important;" class="cr_form-block cr_button">Anmelden</button>
+    </div>
+</div>
+<!--
+<div id="6700362" rel="button" style="text-align: right;" class="cr_form-component cr_form-component--submit cr_ipe_item ui-sortable  submit_container">
+    
+</div>
+-->
+
+</form>			
+					
+	
+				</div>
+			</div>
+			<div id="footercol3" class="col-sm">
+					<div id="addressBlock" class="textwidget"><strong>Stiftung für Konsumentenschutz</strong><br/>
+						<p>Nordring 4<br>
+						Postfach<br>
+						3001 Bern<br/><br/>
+						<a href="tel:+41313702424">Tel +41 31 370 24 24</a><br>
+						<a href="mailto:info@konsumentenschutz.ch">info@konsumentenschutz.ch</a></p>
+					</div>
+					<div id="socialmedia" style="margin-bottom: 25px; display: block;">Social Media<br/>
+						
+						<a style="margin-left: 2px; outline: none;" alt="Konsumentenschutz auf Instagram" href="https://www.instagram.com/konsumentenschutz/" target="_blank"><i class="fa fa-instagram" style="width: 0.9em; margin-right: 1.3em;"></i></a>
+						<a style="outline: none;" alt="Konsumentenschutz auf LinkedIn" href="https://www.linkedin.com/company/12297652" target="_blank"><i class="fa fa-linkedin" style="width: 0.9em; margin-right: 1.3em;"></i></a>					
+						<a style="outline: none;" alt="Konsumentenschutz auf Facebook" href="https://www.facebook.com/stiftungfuerkonsumentenschutz/" target="_blank"><i class="fa fa-facebook-f" style="width: 0.9em; margin-right: 1.3em;"></i></a>
+						<a style="outline: none;" alt="Konsumentenschutz auf Twitter" href="https://twitter.com/KonsumSchutz" target="_blank"><i class="fa fa-twitter" style="width: 0.9em; margin-right: 1.3em;"></i></a>
+						<a style="outline: none;" alt="Konsumentenschutz auf Mastodon" rel="me" target="_blank" href="https://social.anoxinon.de/@Konsumentenschutz"><img width="74" height="79" src="/wp-content/themes/sks/images/mastodon.svg" style="margin-top: -4px !important; width: 0.875em; height: auto;" alt="Mastodon" /></a>
+					</div>
+			</div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row copyright" style="margin-top: 25px;">
+        <div class="col d-flex">
+          © 2023 Stiftung für Konsumentenschutz
+			<nav>
+              <ul id="copyright-nav-footer" class="copyright-nav">
+				<li id="menu-item" class=""><a href="/impressum/">Impressum</a></li>
+				<li id="menu-item" class=""><a href="/datenschutz/">Datenschutz</a></li>
+				  <li id="menu-item" class=""><a href="/agb_allgeimeine_geschaeftsbedingungen/">AGB</a></li>				  
+			  </ul>            
+			</nav>
+		</div>
+		<a id="designedby" style="margin-bottom: -5px; float: right; color: #e3f2f0; font-size: 14px;" href="https://rettenmund.com" target="_blank">Website by rettenmund</a>
+      </div>
+		
+    </div>
+  </footer>
+ 
+<style>
+ @media (min-width: 1200px) {
+	.owl-carousel .owl-item { width: 1155px !important; }
+ }
+ @media (min-width: 1000px) and (max-width: 1199px) {
+	.owl-carousel { overflow: hidden; }
+	.owl-carousel .owl-item { width: 1100px !important; }
+ }
+ 
+</style></div>
+
+<script type="text/javascript">
+/*window.onerror = function (message, source, lineno, columnNo, error) {
+return true;
+}*/
+
+function navMobile() {
+	
+	if (document.getElementById("main_nav").style.display != "block") {
+		
+		document.getElementById("mobilemenu").style.display = "block";
+		document.getElementById("main_nav").style.display = "block"; 
+		document.getElementById("menucontainer").toggle("change");
+		
+	} else {
+		
+		document.getElementById("mobilemenu").style.display = "none"; 
+		document.getElementById("main_nav").style.display = "none"; 
+		
+    }
+}
+function navMobile2() {
+	
+}
+</script>
+
+
+<script type="text/javascript" src="/wp-content/themes/sks/js/ks.js"></script>
+<script type="text/javascript" src="/wp-content/themes/sks/js/ks_funcs_shop.js"></script>
+
+<script>  
+jQuery("#lupelink").click(function(){
+	jQuery('#kssearch').submit();
+});
+</script>
+
+
+<style type="text/css">
+.nr-navigation--presence .nr-navigation-component { margin-top: 42px !important; }
+</style>
+<style type="text/css">
+#articles { margin-top: 24px !important; }
+@media (min-width: 767px) { .nr-navigation--presence .nr-navigation-component {  } }
+@media (min-width: 767px) { .breadcrumb { display: block !important; width: 100%; } }
+@media (min-width: 767px) {
+}
+#themenfinder { outline: 0 !important; box-shadow: none; }
+
+@media (max-width: 990px) {
+	
+	#outerframediv { max-width: 100% !important; border: 1px solid #aaa !important; }
+	#themenfinder { display: none !important; }
+	
+		
+	#header .container-fluid { margin-top: 130px !important; }
+	section img { max-width: 100% !important; height: auto !important; }
+	.beratung2colimg { max-width: 100% !important; height: auto !important; }
+	#article h1 { font-size: 1.8em !important; }
+	#article h2 { margin-bottom: 10px !important; }
+	#navtoggle { top: 2em; display: block;}
+	.navbar-toggler { display: none !important; }
+	#mobilemenu { display: block !important; }
+	#bar1, #bar2, #bar3 { width: 50px !important; }
+	.navbar-collapse { position: unset !important; visibility: visible; display: none; height: 100vh !important; padding-top: 4em !important; }
+	.show_mobilenav { display: block !important; }
+	#navtoggle { z-index: 9999999999 !important; }
+	#header { min-height: 200px !important; }
+	#mobilemenu { display: none; }
+	.navbar { padding: 0px !important; }
+	.navbar-brand { margin-top: -10px !important; }
+	
+}
+</style>
+
+
+			<noscript><img src="https://app.friendlyanalytics.ch/fa39.gif"/></noscript><script type="text/javascript">// Buttonizer snippet container
+function enableButtonizer() {(function(n,t,c,d){if(t.getElementById(d)){return}var o=t.createElement('script');o.id=d;(o.async=!0),(o.src='https://cdn.buttonizer.io/embed.js'),(o.onload=function(){window.Buttonizer?window.Buttonizer.init(c):window.addEventListener('buttonizer_script_loaded',()=>window.Buttonizer.init(c))}),t.head.appendChild(o)})(window,document,'85a18b59-5ae7-4896-9c84-c5679d672823','buttonizer_script')};
+
+// Buttonizer consent given, load content
+if(window.buttonizer_consent_given){ enableButtonizer(); }</script><link rel='stylesheet' id='embed-privacy-css' href='https://www.konsumentenschutz.ch/wp-content/plugins/embed-privacy/assets/style/embed-privacy.min.css?ver=1.8.0' type='text/css' media='all' />
+<script type='text/javascript' id='embed-privacy-js-extra'>
+/* <![CDATA[ */
+var embedPrivacy = {"alwaysActiveProviders":[0],"javascriptDetection":"yes"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.konsumentenschutz.ch/wp-content/plugins/embed-privacy/assets/js/embed-privacy.min.js?ver=1.8.0' id='embed-privacy-js'></script>
+<script></script>
+</body>
+</html>	
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1697673605 -->

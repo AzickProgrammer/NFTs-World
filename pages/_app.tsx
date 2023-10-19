@@ -1,21 +1,25 @@
-import type { AppProps } from "next/app";
-import { ThirdwebProvider } from "@thirdweb-dev/react";
-import "../styles/globals.css";
+// _app.tsx
+import { ChakraProvider, Container } from '@chakra-ui/react'
+import theme from '@chakra-ui/theme'
+import { ThirdwebProvider } from '@thirdweb-dev/react'
+//import type { AppProps } from 'next'
+import { Navbar } from '../components/Navbar'
+import { AppProps } from 'next/app'
+//import '@styles/globals.css'
 
-// This is the chain your dApp will work on.
-// Change this to the chain your app is built for.
-// You can also import additional chains from `@thirdweb-dev/chains` and pass them directly.
-const activeChain = "ethereum";
+const activeChain = 'mumbai'
 
 function MyApp({ Component, pageProps }: AppProps) {
   return (
-    <ThirdwebProvider
-      clientId={process.env.NEXT_PUBLIC_TEMPLATE_CLIENT_ID}
-      activeChain={activeChain}
-    >
-      <Component {...pageProps} />
+    <ThirdwebProvider activeChain={activeChain}>
+      <ChakraProvider theme={theme}>
+        <Container maxW={'1200px'}>
+          <Navbar />
+          <Component {...pageProps} />
+        </Container>
+      </ChakraProvider>
     </ThirdwebProvider>
-  );
+  )
 }
 
-export default MyApp;
+export default MyApp
